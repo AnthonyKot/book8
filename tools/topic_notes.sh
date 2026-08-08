@@ -31,6 +31,15 @@ hiroshima|Hiroshima and Nagasaki, 1945|Hiroshima; Nagasaki; atomic bomb; nuclear
 munich-1938|Munich Agreement, 1938|Munich; Sudetenland; appeasement; Chamberlain; Czechoslovakia
 opium-wars|Opium Wars, 1839-1860|Opium War; Nanjing; unequal treaty; Canton; Hong Kong; Lin Zexu
 1917|Russian Revolution, 1917|February Revolution; October Revolution; Bolshevik; Provisional Government; Lenin; dual power
+scramble-africa|The Scramble for Africa, 1880s-1914|Scramble for Africa; Berlin Conference; partition of Africa; colonies; Congo; Omdurman; Mahdi; Fashoda; imperialism
+russo-japanese-1905|Russo-Japanese War, 1904-1905|Russo-Japanese War; Port Arthur; Tsushima; Mukden; Portsmouth 1905; first defeat of a European power
+july-1914|Who started 1914|July Crisis; Sarajevo; Franz Ferdinand; ultimatum; Serbia; mobilization; war guilt; Schlieffen
+versailles|Versailles, 1919|Versailles; Paris Peace Conference; reparations; war guilt clause; Fourteen Points; League of Nations; May Fourth; Shandong
+china-1911-49|China 1911-1949|Xinhai; 1911 Revolution; Sun Yat-sen; May Fourth; Long March; Chiang Kai-shek; Mao; civil war; 1949
+india-1930-47|India 1930-1947|Amritsar; Jallianwala; civil disobedience; Salt March; Gandhi; Quit India; partition 1947; independence
+depression|The Great Depression|Great Depression; 1929; Wall Street crash; unemployment; New Deal; Roosevelt; world economic crisis
+spain-civil-war|Spanish Civil War, 1936-1939|Spanish Civil War; Franco; Republic; Guernica; International Brigades; non-intervention; Condor Legion
+order-1945-49|The 1945-1949 order|Yalta; Potsdam; United Nations founding; Marshall Plan; Truman Doctrine; Berlin blockade; NATO 1949; iron curtain
 "
 line=$(echo "$TOPICS" | grep "^$TOPIC|") || { echo "unknown topic '$TOPIC' — add it to TOPICS in $0"; exit 1; }
 TITLE=$(echo "$line" | cut -d'|' -f2)
