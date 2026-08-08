@@ -73,6 +73,11 @@ of China's export economy loop makes the Opium Wars legible. Rules:
   textbook, and keep it visually/structurally distinct from quoted material.
 - Close the thread by counting: "N of 11 classrooms tell any of this" (from the
   topic dossier). The thread's absence from the classroom IS the finding.
+- **Causal precision in the punchline** (reader-review precedent, ch. 15): state
+  exactly what the mechanism produced. The empty chair did not produce the Korean
+  War — it produced the flag the war was fought under. A closing line must never
+  promote a precondition into a cause; if the punchy version overclaims, the
+  precise version IS the punchline.
 - Receipts-lite: name + date + where a reader can check (a book title, a
   primary source, a museum, a still-operating factory). No verification
   machinery — but nothing that can't survive two minutes of googling.
