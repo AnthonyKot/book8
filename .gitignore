@@ -1,0 +1,9 @@
+# Copyrighted source textbooks and everything derived from them — never published.
+# The anti-leak check in verify.sh fails the build if any of these are ever tracked.
+resources/
+corpus-orig/
+corpus-en/
+notes/
+tools/log/
+*.log
+.cache/
