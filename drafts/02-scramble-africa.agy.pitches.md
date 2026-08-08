@@ -1,0 +1,16 @@
+# Chapter 2 (Scramble for Africa) — Thread Pitches
+
+### Pitch 1: The Straight Line on the Phone Map
+- **Seed**: Sabbatucci & Vidotto (IT, p. 144) record "borders often arbitrary, traced on the geographic map… without taking any account of tribal divisions," and OpenStax (US, p. 352) notes "without input from Africans, European nations simply allotted different parts of the continent to one another," while seven other textbooks present African state borders as neutral backdrop.
+- **Loop**: Industrial European powers met at the 1884–85 Berlin Conference to partition Africa without military conflict between themselves → diplomats drew geometric straight-line borders along meridians and parallels on maps of uncharted terrain → these arbitrary lines severed ethnic communities and forced competing polities into unified administrative units → independent post-colonial states retained these colonial frontiers to avoid continental warfare, baking nineteenth-century European cartography into modern international law.
+- **Lander**: The straight geometric lines cutting across North and West Africa on every reader's smartphone map app (Google Maps / Apple Maps).
+
+### Pitch 2: The Rubber in the Bicycle Wheel
+- **Seed**: OpenStax (US, p. 369) details the Force Publique cutting hands in King Leopold II's Congo Free State, and Sabbatucci & Vidotto (IT, p. 143) call it a "paradoxical euphemism" for "rapacious and inhuman forms of colonial dominion," while nine non-US/IT books omit Congo's extraction system entirely.
+- **Loop**: The invention of the pneumatic rubber tire (1888) created a sudden global demand for wild rubber in bicycles, automobiles, and electrical insulation → King Leopold II leased vast tracts of the Congo basin to concession companies that enforced quotas through hostage-taking, forced labor, and systematic violence → millions of tons of rubber flowed into Western factories, underwriting the Second Industrial Revolution's transportation boom at the cost of an uncounted African demographic collapse → public outrage forced the Belgian state to annex the territory in 1908.
+- **Lander**: Every rubber bicycle tire, car wheel, and industrial seal that built modern urban transit.
+
+### Pitch 3: The Maxim Gun & the Uncounted Ten Thousand
+- **Seed**: Koshelev (BY, p. 79) meticulously counts European casualties (11,000 lost at Adwa, 28,000 British dead in the Boer War), while Sudan's ministry textbook (SD, p. 14) is the only volume in the eleven-country corpus that counts African battlefield casualties (10,000 Ansar fallen at El Obeid).
+- **Loop**: Hiram Maxim's 1884 fully automatic machine gun gave small European expeditionary forces overwhelming firepower advantages over larger African armies → battle narratives across Western textbooks celebrated imperial officers while leaving African combat deaths unrecorded or treated as scenery → Sudan's textbook alone records the 10,000 Ansar killed in a single assault, exposing how national curricula count only the fallen they claim as their own → the Maxim gun's lethal efficiency, tested across 1890s Africa, returned to Europe in 1914 to create the industrial slaughter of the Western Front.
+- **Lander**: The automatic recoil mechanism inside modern infantry weapons, first deployed across the African continent in the 1890s.
