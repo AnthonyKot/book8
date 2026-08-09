@@ -40,6 +40,11 @@ india-1930-47|India 1930-1947|Amritsar; Jallianwala; civil disobedience; Salt Ma
 depression|The Great Depression|Great Depression; 1929; Wall Street crash; unemployment; New Deal; Roosevelt; world economic crisis
 spain-civil-war|Spanish Civil War, 1936-1939|Spanish Civil War; Franco; Republic; Guernica; International Brigades; non-intervention; Condor Legion
 order-1945-49|The 1945-1949 order|Yalta; Potsdam; United Nations founding; Marshall Plan; Truman Doctrine; Berlin blockade; NATO 1949; iron curtain
+hungary-1956|Hungary, 1956|Hungarian uprising; Hungary 1956; Budapest; Imre Nagy; Soviet intervention; Warsaw Pact; counter-revolution
+afghanistan-1979|Afghanistan, 1979-1989|Afghanistan; Soviet invasion; mujahideen; Kabul; limited contingent; 1979; withdrawal 1989
+kal-007|KAL 007, 1983|Korean airliner; KAL 007; Boeing; shot down; Sakhalin; 1983; passenger plane
+tiananmen-1989|Tiananmen, 1989|Tiananmen; 1989; Beijing; students; martial law; demonstrations; protests
+crimea-2014|Crimea, 2014|Crimea; annexation; 2014; referendum; Donbas; hybrid; little green men
 "
 line=$(echo "$TOPICS" | grep "^$TOPIC|") || { echo "unknown topic '$TOPIC' — add it to TOPICS in $0"; exit 1; }
 TITLE=$(echo "$line" | cut -d'|' -f2)
