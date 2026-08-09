@@ -354,3 +354,8 @@ table.ladder .cite {
   body { background: white; color: black; }
   .ladder-wrap { overflow: visible; }
 }
+
+/* documentary figures */
+figure.doc { margin: 2rem 0; }
+figure.doc img { max-width: 100%; border-radius: 4px; display: block; }
+figure.doc figcaption { font-size: 0.75rem; color: var(--ink-soft, #666); margin-top: 0.4rem; line-height: 1.4; }
