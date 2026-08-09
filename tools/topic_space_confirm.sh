@@ -25,8 +25,13 @@ id|mentions|N
 Books with no coverage: only "id|mentions|0". No character estimates. Print a 2-line summary when done.
 EOF
   log "$TOPIC: confirm pass via agy over: $IDS"
-  timeout 900 agy --dangerously-skip-permissions --print-timeout 14m \
-    --model gemini-3.6-flash-high -p "$(cat "$pf")" > "tools/log/space-$TOPIC-confirm-agent.txt" 2>>"$LOG.err" || true
+  if [ "${CONFIRM_AGENT:-agy}" = "grok" ]; then
+    timeout 900 grok --always-approve --max-turns 25 \
+      -p "$(cat "$pf")" > "tools/log/space-$TOPIC-confirm-agent.txt" 2>>"$LOG.err" || true
+  else
+    timeout 900 agy --dangerously-skip-permissions --print-timeout 14m \
+      --model gemini-3.6-flash-high -p "$(cat "$pf")" > "tools/log/space-$TOPIC-confirm-agent.txt" 2>>"$LOG.err" || true
+  fi
   [ -s "$R2" ] || { log "$TOPIC: confirm agent produced nothing — FAILED"; exit 1; }
 fi
 
