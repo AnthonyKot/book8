@@ -47,8 +47,8 @@ hand-translated. `corpus-orig/` holds pdftotext extractions with page breaks.
 | Part | Chapters |
 |---|---|
 | I Imperialism | 1 Opium Wars · 2 Scramble for Africa (SD lead) · 3 Russo-Japanese 1905 |
-| II Great War | 4 Who started 1914 · 5 Versailles (incl. US entry; CN May-Fourth angle) |
-| III Revolutions | 6 1917 · 7 China 1911→49 · 8 India 1930–47 (Amritsar 3-way: UK 0 · US "horrific" · IN self) |
+| II Great War | 4 Who started 1914 · 5 1917 · 6 Versailles (incl. US entry; CN May-Fourth angle) |
+| III Revolutions | 7 China 1911→49 · 8 India 1930–47 (Amritsar 3-way: UK 0 · US "horrific" · IN self) |
 | IV Deals & War | 9 Depression · 10 Spain · 11 Munich→Pact→Sept 1939 (Katyn exhibit) · 12 Holocaust (DE lead) · 13 Pacific & Hiroshima |
 | V Cold War opens | 14 The 1945–49 order · 15 **Korea — finale** (the full ladder) |
 
@@ -113,3 +113,5 @@ corpus-orig/, corpus-en/ are copyrighted or derived; the repo publishes to GitHu
   lead. Original-language pulls for CN/BY/IT; EN books from native text. Open ch.2 link is
   a stub until Scramble is written.
 
+
+- 2026-08-09: reading order made strictly chronological (reader decision): 1917 = ch. 5, Versailles = ch. 6; Part II now runs war → revolution → peace.
