@@ -70,6 +70,34 @@ for f in index.html about.html chapters/*.html; do
 done
 [ "$nestfail" -eq 0 ] && ok "HTML nesting"
 
+# ---- 5. nav chain (reading order) ------------------------------------------
+ORDER="00-introduction.html narrator-cards.html part-1.html 01-opium-wars.html 02-scramble-africa.html 03-russo-japanese-1905.html part-2.html 04-july-1914.html 05-1917.html 06-versailles.html part-3.html 07-china-1911-49.html 08-india-1930-47.html part-4.html 09-depression.html 10-spain-civil-war.html 11-munich-pact-1939.html 12-holocaust.html 13-hiroshima.html interlude-wiring.html part-5.html 14-order-1945-49.html 15-korea.html epilogue.html"
+navfail=0; prev=""
+for f in $ORDER; do
+  if [ -n "$prev" ]; then
+    grep -q "href=\"$f\"" "chapters/$prev" || { err "nav chain: chapters/$prev has no link to $f"; navfail=1; }
+    grep -q "href=\"$prev\"" "chapters/$f" || { err "nav chain: chapters/$f has no link back to $prev"; navfail=1; }
+  fi
+  prev="$f"
+done
+[ "$navfail" -eq 0 ] && ok "nav chain (24 pages, both directions)"
+
+# ---- 6. coda refrain --------------------------------------------------------
+CODA="Now look up what your textbook calls it"
+codafail=0
+for f in chapters/0[1-9]*.html chapters/1[0-5]*.html chapters/ex-katyn.html chapters/epilogue.html; do
+  [ -f "$f" ] || continue
+  case "$f" in chapters/00-*) continue ;; esac
+  n=$(grep -c "$CODA" "$f")
+  [ "$n" -eq 1 ] || { err "coda: $f has $n occurrences (want 1)"; codafail=1; }
+done
+for f in chapters/part-[1-5].html chapters/narrator-cards.html chapters/interlude-wiring.html; do
+  [ -f "$f" ] || continue
+  n=$(grep -c "$CODA" "$f")
+  [ "$n" -eq 0 ] || { err "coda: $f carries the chapter refrain (connective pages must not)"; codafail=1; }
+done
+[ "$codafail" -eq 0 ] && ok "coda refrain (chapters once each, connective pages none)"
+
 # ---------------------------------------------------------------------------
 echo
 if [ "$fail" -gt 0 ]; then
