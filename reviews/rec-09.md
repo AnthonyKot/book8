@@ -1,0 +1,31 @@
+# Chapter 9 — editorial recommendations
+
+1. Rewrite the lede so this chapter does not become the third consecutive chapter to open “On [weekday/date]…” (India does it before; Spain does it after). Open instead on the chapter’s best human contradiction: men queueing at Al Capone’s Chicago soup kitchen while Brazil destroys coffee. Then give the Wall Street volumes and dates. This announces a new Part, supplies people rather than ticker tape, and makes the reader want the mechanism explained.
+
+2. Rewrite the question box, “No classroom gives the crash a subject. So who gets the first verb after it?” The chapter later concedes that “there is no plausible name to put in” the crash’s subject slot, which makes the advertised mystery feel manufactured. Ask the stronger question the chapter actually answers: **When does an economic collapse stop behaving like weather on the page and become a decision made by somebody?**
+
+3. Recast “The ladder” as three visibly labelled bands—**weather** (IN/BY/RU), **policy and blame** (UK/US/IT), **consequences imposed on people** (SD/CN)—while preserving every textbook quotation whole. The present ranking compares unlike “next verbs”: Hoover’s inaction, a tariff, a colonial pay cut, and an invasion. Bands would keep the discovery without pretending these actions form one clean scalar measure.
+
+4. Add one short handoff from Chapter 8 near the new lede: the previous chapter ended with rice physically present but unaffordable in Bengal; this one shows food destroyed to defend its price. Do not re-explain the famine. One sentence is enough to make the thematic jump from “Revolutions” to “Deals & War” feel designed rather than like a reset.
+
+5. Cut the first two paragraphs of “The tell,” from “Start with what nobody disputes” through “the eight books stop resembling each other,” and replace them with one brisk transition. The lede, question box, ladder introduction, and these paragraphs currently state the no-subject/next-verb device four times before the reading begins.
+
+6. Merge the NCERT, Belarus, and Russia paragraphs in “The tell” into one comparative paragraph organized around their verbs: nobody acts; “Western democracies” act; Hoover acts only by omission. Their separate mini-essays repeat evidence already visible in the ladder and delay the more surprising Sudan and China material. Keep any retained textbook wording verbatim and complete.
+
+7. Move or cut the pull quote “Why did it not affect the economy of the Soviet state?” It interrupts the descent just before the two rungs that “change the shape of the chapter,” and the chapter never answers it. If retained, place it in “Where this stops being true” beside the Kazakhstan/Soviet exception material and explain in one sentence what the exercise reveals.
+
+8. Rewrite the synthesis beginning “Line the eight up and the pattern is not about ideology.” “The further a narrator’s own population is from Wall Street, the more concrete the actor becomes” overclaims from two cases and confuses geographic distance with proximity to harm. Make the narrower, supported claim: once a textbook follows the Depression to a payroll or an invasion, abstractions give way to officials making choices about identifiable people.
+
+9. Make coffee the uninterrupted spine of “The thread.” Split the long Brazil paragraph after “That is the revolution Belarus mentions”: first show the astonishing image and political turn; then explain why price-support arithmetic had worked before and failed now. This is the chapter’s dinner-table story, and it currently arrives after the reader has already crossed a 1,700-word exhibit.
+
+10. After “The tariff did not cause the Depression,” add a compact explanation of the causal mechanism the chapter currently reserves for its final limitation: monetary contraction and the gold standard helped make the slump deep, while tariffs propagated and intensified it internationally. The chapter repeatedly promises exact causation; admitting six sections later that it has omitted the mechanism “most economists now put near the centre” leaves the general reader with the wrong center of gravity.
+
+11. Cut the statistical audit beginning “On the landing side, 3 of 11 classrooms…” from the coffee paragraph. It repeats the ladder and turns an alive essay back into a research memo. Keep the contemporary connection, but rewrite “a dead technical term for two generations, back in every newsfeed in all eleven countries” and “arguments this year” as a durable invitation: whenever tariffs return to the news, ask who loses the market in which they earn the money to buy.
+
+12. Rewrite the last paragraph of “The thread” as a cleaner handoff to Chapter 10. Preserve the Lowe and OpenStax quotations whole, but replace “The recovery walks out of this chapter wearing a uniform” with a sentence that distinguishes chronology from causation and points specifically to Spain: wartime spending would close the employment gap; before that, Spain became a place where the aircraft, credit, and evasions of the coming war were tested. That sets up the next chapter’s actual concerns better than merely naming “Spain and Munich.”
+
+13. Compress “Credit where due” to four one-sentence awards or, better, retain only the two contributions not already praised at length in “The tell”: Sudan’s payroll distinction and Italy’s world-versus-farm scale. The Lowe wages/profits comparison and OpenStax tariff admission are currently explained for a third time. The recurring apparatus should feel like a turn in the argument, not a compulsory recap.
+
+14. Reduce “Where this stops being true” to the two limits that materially change the reader’s interpretation: edition/syllabus scope, and the missing monetary/gold-standard mechanism. Move the Sudan OCR warning and the Belarus table discrepancy into “Receipts”; cut or relegate the Kazakhstan calendar-year aside and the Russian chronology mismatch. Coming after two long neighboring chapters with the same seven-part apparatus, this six-paragraph audit log is where a pleasure reader is most likely to feel the template rather than the book.
+
+**Verdict:** This chapter is an essay trapped inside an exhibit; rebuilding it around the coffee–tariff journey would help it most.
