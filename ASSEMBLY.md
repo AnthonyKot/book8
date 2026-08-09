@@ -36,6 +36,22 @@ A5. **Epilogue** — the open question: the late-century exhibits (Hungary 56, A
 A6. **Contents page** = real table of contents with the braid SVG; index.html becomes
     the book's front door (title, tagline, cards link, parts, epilogue).
 
+## Phase B0 — mode classification (before B; reader confirms)
+
+Every chapter gets a mode per AGENT.md (Exhibit vs Essay), and essay-mode
+chapters get the thread-first restructure: thread moves to the chapter's
+center of gravity, ladder trimmed to the rows that earn it, remaining rows'
+quotes fold into receipts. Initial classification for the reader to amend:
+- **Essay**: 2 (quinine) · 4 (passport) · 5 (Part XIII/mandate) · 9 (coffee+
+  tariff) · 11 (Munich analogy) · 14 (iron curtain) · 15 (empty chair) · 1 (tea, after retrofit)
+- **Exhibit**: 6 (1917 naming) · 8 (Amritsar/Bengal, sober) · 12 (Holocaust —
+  deliberately exhibit; the thread stays quiet) · Katyn (already native)
+- **Hybrid, lean essay**: 3 (Tsushima's two obsolescences) · 7 (three lengths/
+  notebook) · 10 (the gold) · 13 (the unit)
+One formal mutant per Part, earned: candidates — the RU«сговор»/US-Analogy
+two-hander (may BE the wiring interlude); the "wrong book" half-page (India's
+Munich zero as the entire piece, Part IV); a backward timeline (epilogue).
+
 ## Phase B — the harmonization pass (edit; after ch. 12/14 threads land)
 
 B1. **Dedupe the formulas.** One editorial read 1→15 in order. Each chapter keeps AT

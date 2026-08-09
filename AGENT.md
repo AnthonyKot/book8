@@ -64,6 +64,11 @@ of China's export economy loop makes the Opium Wars legible. Rules:
   be something the ladder surfaced — a phrase a textbook used ("opium, which
   grew in India"), a number, or a conspicuous silence. Never bolt on a story
   the comparison didn't earn.
+- **Landers: one global preferred; one tagged regional allowed.** A lander every
+  corpus reader shares is preferred, but a strong regional lander (Tsoi, a state
+  holiday, a monument inscription) may be used ONCE per chapter if explicitly
+  tagged ("If you grew up with…") — the book multiplies classrooms, the reader
+  may be multi-sited. Never fabricate the intimacy the tag implies.
 - **The thread must be shared.** It has to land for a reader from ANY of the
   corpus countries — an object, word, or consequence they all live with (tea
   is on every table; the 38th parallel is in everyone's phone supply chain).
@@ -115,12 +120,49 @@ from the comparison, the loop, the shared hook. The user is the test reader
 reaction gets written, the rest are dropped or banked for other chapters.
 No reaction = no thread for that chapter (see cup-of-tea rule: never force).
 
-## Pre-ship test (all four or don't ship)
+## Pre-ship test (all five or don't ship)
 
 1. Would a tired adult who hated history class read past the ladder? (If the
    ladder is the last interesting thing, the chapter is homework.)
 2. Does the reader touch the history at least once — object, word, map, habit?
 3. Is every enrichment claim checkable in two minutes, and marked for human
    verification in the draft (HTML comment `<!-- CHECK: ... -->`)?
-4. Did the thread stay under a screen and off the ladder's stage? The chapter's
-   longest element must still be the textbooks' own words.
+4. Did the thread stay off the ladder's stage in exhibit-mode chapters? (In
+   essay-mode the thread IS the stage; the quotes still outweigh the commentary.)
+5. **The dinner test**: can the reader retell the chapter in one sentence at
+   dinner without saying "textbooks differ"? If the only memorable line is
+   "they all use different verbs," it is an exhibit, not an essay — label it
+   one and cut it to exhibit length rather than padding it to essay length.
+
+## Two chapter modes (assembly decision, 2026-08-09)
+
+Not every chapter is the same machine. Every chapter is ONE of:
+- **Exhibit** — "watch the classrooms": short ladder + tell + receipts; thread
+  optional or one paragraph. The naming/zero chapters live here.
+- **Essay** — "why this lives in your mouth / pocket / map": thread first or
+  central; ladder trimmed to the rows that earn it (two rows can be enough);
+  facts may live in receipts. Production order for essay-mode: pitch chosen →
+  thread drafted (600–900 words) → smallest ladder that earns it → kill quotes
+  that don't serve the essay.
+Series identity = kicker + credit + receipts + coda, NOT the full nine beats
+every time. One formal mutant allowed per Part (a two-hander, a backward
+timeline, a chapter that is only a zero) — earned, never quota-filled.
+
+## Author's desk (named beat, optional)
+
+The human author is the third writer. An "Author's desk" insert (3–8 sentences,
+labeled) may carry childhood textbook memory, "I always thought X," anger that
+is not sneer — sentences no dossier contains. Models NEVER draft or imitate
+this beat; it enters only when the author writes it.
+
+## Generation economy (learned 2026-08-09)
+
+Full parallel drafts are a calibration tool, not a production tool: eight merge
+rounds yielded ~six harvested sentences from twelve alternate drafts, while the
+pitch files produced every thread. Standard pipeline now: one spine draft (any
+model, audited once) + 6–8 pitches generated from DIFFERENT CUTS of the dossier
+(silences only · one language pair · a non-agency axis · a forbidden-cliché
+list) + human pick + one essay draft. Second models are for verification and
+adversarial reads, not for parallel prose. Briefs lock the receipts (6–12
+verified quotes, no invented pages, no sneer) and free the form (lede image,
+act order, ladder existence and size, credit length).
