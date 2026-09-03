@@ -23,10 +23,11 @@ chapter for the shared markup (site-nav, chapter-nav, figure and receipts classe
    punchline. The ladder and the grammar analysis are summarised in prose here, not reproduced.
 3. **One short paragraph** of credit and limits together (from "Credit where due" and "Where this
    stops being true"), 80–150 words.
-4. **The dry facts** become a compact dated sidebar or a short list of five to eight lines, or are
-   dropped if the essay already carries the dates.
-5. **Close** with the book's refrain line as the existing chapters do, and a link: "The full
-   comparison and receipts for this chapter" → `{{NN}}-receipts.html`.
+4. **The dry facts** become a short list of five to eight lines under its own numbered heading (for
+   example "The dates, briefly"), or are dropped if the essay already carries the dates. Never an
+   unheaded list floating between sections.
+5. **Close** in this order: the link "The full comparison and receipts for this chapter" →
+   `{{NN}}-receipts.html`, then the book's refrain line (`<p class="coda">`), then the chapter-nav.
 
 ## The receipts page (`chapters/{{NN}}-receipts.html`)
 
@@ -40,7 +41,9 @@ back to the chapter at the top and bottom. Keep the chapter-nav out of it.
 
 - **Never false.** You may not add any fact, date, number, name or quotation that is not already in
   the current chapter, its receipts, or the corpus extracts under `corpus-en/` and `resources/`. If a
-  sentence would be better with a fact you do not have, leave it out.
+  sentence would be better with a fact you do not have, leave it out. This includes facts you are sure
+  of: in the first batch a run added two true passport-abolition dates from memory and they had to be
+  removed. Every date and number on the new page must be findable in the old page.
 - **Quotes verbatim.** Any textbook quotation kept on the chapter page must match the current
   chapter character for character, including the translation and attribution.
 - Preserve the chapter's kicker, title, site-nav, chapter-nav (prev/next links unchanged), figures with
