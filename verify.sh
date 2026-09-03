@@ -47,7 +47,7 @@ done
 [ "$linkfail" -eq 0 ] && ok "internal links (stubs to future chapters are warnings)"
 
 # ---- 3. chapter count sync -------------------------------------------------
-nfiles=$(ls chapters/*.html 2>/dev/null | wc -l)
+nfiles=$(ls chapters/*.html 2>/dev/null | grep -v -- "-receipts.html" | wc -l)
 nlinks=$(grep -oE 'href="chapters/[^"]+\.html"' index.html | sort -u | wc -l)
 if [ "$nfiles" -ne "$nlinks" ]; then
   err "count sync: $nfiles chapter file(s) but $nlinks chapter link(s) in index.html"
