@@ -125,3 +125,10 @@ there. Nothing was deleted or renumbered: chapter files, kickers, part openers a
 are untouched, so a reader who enters a chapter is inside the full book. `verify.sh` checks count
 sync and links against `contents.html`. Audio: 13 chapters embedded (`audio-sources/README.md` has
 the table); analytics via `static/feedback.js` on every page.
+
+## Repository renamed (2026-09-18)
+
+GitHub repository renamed `book8` → `still-working` to match the front page. The site now lives at
+`anthonykot.github.io/still-working/`; the old `/book8/` path no longer serves (Pages does not
+redirect renamed project sites). The local working directory is still `~/book8`. All site links are
+relative, so no page changed. GA4 is keyed on the hostname, not the path, so analytics are unaffected.
