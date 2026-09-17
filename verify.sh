@@ -33,7 +33,7 @@ for f in index.html contents.html about.html chapters/*.html; do
     case "$ref" in
       http*|mailto:*|\#*) continue ;;
     esac
-    target="$dir/${ref%%#*}"
+    target="$dir/${ref%%[#?]*}"
     if [ ! -f "$target" ]; then
       if echo "$ref" | grep -qE '(^|/)[0-9]{2}-[^/]+\.html$'; then
         wrn "link: $f -> $ref (future chapter, not written yet)"
@@ -104,4 +104,13 @@ if [ "$fail" -gt 0 ]; then
   echo "verify: $fail FAILURE(S), $warn warning(s)"
   exit 1
 fi
+# ---- 7. stylesheet cache-bust --------------------------------------------
+v=$(md5sum static/style.css | cut -c1-8)
+stale=$(grep -lE 'static/style\.css(\?v=[0-9a-f]+)?"' index.html contents.html about.html chapters/*.html 2>/dev/null | xargs grep -LE "static/style\.css\?v=$v"" 2>/dev/null || true)
+if [ -n "$stale" ]; then
+  err "stylesheet version stale (run scripts/stamp_css.sh):"; echo "$stale" | sed 's/^/        /'
+else
+  ok "stylesheet cache-bust (all pages reference style.css?v=$v)"
+fi
+
 echo "verify: all checks passed, $warn warning(s)"
