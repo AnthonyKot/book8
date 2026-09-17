@@ -1,0 +1,180 @@
+Welcome everyone to today's deep dive.
+We're so glad you can join us.
+Yeah, really excited for this one.
+And for this deep dive, we're going on a bit of a journey.
+We're looking at this really strange, almost surreal phenomenon
+of how a specific physical place on a map, like a real city,
+somehow transforms into this plural mathematical unit
+of measurement.
+Right, which is not something we usually
+think about when we use language.
+Exactly.
+So for you listening, I want to set the scene.
+We are going to start in February, 1989.
+And we are out on the Kazakh step, specifically
+in this village called Karol.
+And there's a public meeting taking place there.
+A really important one, actually.
+Yeah, the people there had gathered
+to adopt an appeal about the nuclear test
+site that was right next door to them.
+And just to give you the full weight of this,
+this is the exact meeting that began the movement, which
+actually closed that site two years later.
+It's incredible historical momentum starting right there.
+It really is.
+But here is the thing that we really need to focus on.
+Today, if you look at a Kazakh 11th grade school textbook,
+it actually reproduces that appeal.
+Right.
+And there's this one specific sentence in that text
+that just completely stops you.
+The quote is, over 40 years, thousands of Hiroshima's
+have exploded here.
+Wow.
+Yeah, that really hits you.
+Right.
+OK, so let's unpack this.
+Because on a completely literal level,
+nothing in that sentence is about Japan.
+No, not a single thing.
+I mean, we are talking about.
+Roughly four and a half thousand kilometers between that village on the Kazakh steppe and Hiroshima. That's a massive distance
+Yeah, and temporarily
+44 years live between that public meeting and the morning that the word originally acquired its meaning right 1945 to 1989
+Exactly, right, but what is so wild is that nobody on that textbook page?
+Literally nobody stops to explain the unit because they didn't have to right by 1989. Nobody needed explained a
+city had officially become a quantity and
+And a floral one at that which is just I mean grammatically and conceptually it's bizarre
+You don't say like thousands of London's or thousands of Chicago's right a city is a physical place
+But here the geographical anchor has been totally severed. So take us back
+You know to where that word first got its meaning. How does the city become a metric?
+Well to understand that we just have to look at the exact chronology of those nine days in August 1945
+And I'm just gonna lay these facts out strictly in order without commentary. So you can really see it. Let's hear it
+So on the 6th of August
+1945 a uranium bomb falls on Hiroshima from a named aircraft, right?
+And that releases the energy of roughly 15,000 tons of TNT
+Okay, then on the 8th of August the Soviet Union declares war on Japan
+So two days later exactly then the very next day on the 9th of August Soviet forces enter Manchuria and a plutonium bomb
+Falls on Nagasaki. God, it's just so fast. It is and then on the 15th of August the emperor broadcasts surrender
+Wow, and finally on the 2nd of September the document is signed a board of ship
+It's just I am always struck by the intense compression
+that timeline. Oh totally. I mean for you listening, just think about a singular
+stationary event stretching into this standard movable unit used all over the
+world. But before we get into the whole unit aspect, there is a really crucial
+qualification we have to establish about those days. Right, the text makes this
+very plain and it's a vital context. Japanese cities were already burning
+before August. Yes, that is so important to remember. The difference
+was not that civilians had suddenly entered the war. Right, the threshold
+across in August wasn't the introduction of civilian suffering or
+urban destruction. That was already happening. The difference was the
+mechanism itself. Exactly. What's fascinating here is that the bomb gave
+Hiroshima this bizarre second life as a ruler. A ruler, like a measuring stick.
+Yeah, exactly. It became the baseline to track the exponential growth of weapons
+that followed. And that escalation was just staggering. It was. I mean
+consider this, just seven years later a thermonuclear test in the Pacific
+releases something like 700 times as much energy. 700 times. Yeah. In just
+seven years. Yeah. And then nine years after that, the largest device ever
+detonated releases about 50 megatons. 50 megatons. Which is the equivalent
+of more than 3000 of the first bomb. So what does this all mean? I mean, how
+do we even process that going from an initial baseline to roughly 700 times
+more powerful? And then suddenly you're at the equivalent of more than
+3000 of the first bomb. You really can't process it. As weapons grew, their
+technical units just move further and further from ordinary experience. It
+makes me think of it's like trying to picture the distance between planets
+in inches. Oh, that's a great way to put it. Right. Because
+mathematically it's correct. You could measure the void of space in
+inches. Yeah. But functionally, your brain just short circuits.
+because an inch is for measuring a piece of paper, not the solar system.
+Exactly. And that is why this specific name works so well. I mean,
+kilotons and megatons are honest units.
+They're scientifically accurate.
+Right. But no one can picture a kiloton. What does that even look like?
+Just a giant abstraction.
+Exactly. But a city, a city has streets, it has schools, it has a name.
+Yeah. Everybody listening right now knows what it feels like to walk down a city street.
+Right. And that made the word useful whenever a speaker needed to turn a
+quantity of explosive energy into an imaginable loss.
+An imaginable loss. But okay, let me jump in here because if we are turning this into an imaginable
+loss, if we're trying to put a human count on this tragedy, how do we actually do the math?
+Well, you have to be incredibly careful here. We can only talk about the figures and the
+ranges that the text gives.
+Okay. So just the ranges.
+Right. So roughly 90 to 140,000 at Hiroshima and 60 to 80,000 at Nagasaki by the end of
+1945. Okay.
+With further deaths for decades afterwards.
+But I need to jump in and just say plainly those are ranges not conversions.
+Because there is a massive interval problem here. Think about it.
+A death at the exact moment of the blast, a death by the end of 1945, and then a
+death years later from radiation, those all belong to a completely different total.
+They do. The interval chosen completely changes the answer.
+And I really want to emphasize this. So I am just going to explicitly state this
+qualification as its own sentence, because it's so central to this deep dive.
+Go for it.
+That makes the familiar comparison less precise than it sounds.
+because one Hiroshima may mean explosive yield, people killed immediately, people dead by the end
+of the year, or a city's entire destruction, so the multiplier can be announced to three
+significant figures, while the thing being multiplied varies by nearly half.
+Yeah, that captures it perfectly. The name basically supplies an image exactly where
+the number refuses to settle.
+It really is this wild illusion of precision. You hear someone say like,
+oh, this is 3.14 times the size, and it sounds so scientific.
+Highly scientific.
+But the base unit they're using to multiply with is fluctuating wildly depending on when
+they stop the clock on counting.
+Right. The math is entirely unstable, but the image of the city does all the work.
+So then how does this incredibly unstable unit become the universal currency for discussing
+these massive global arsenals?
+Well, it was a chain of announcements, essentially.
+One interpretation made the bomb a demonstration of American power to the Soviet Union.
+Right, a message.
+Exactly. And then a Soviet test followed in 1949, which then led to four decades of arsenals
+priced in cities.
+Arsenals priced in cities, that's such a heavy concept.
+It is. And if we connect this to the bigger picture, it really comes down to how history
+is framed. Remember those nine days in August we talked about?
+Yeah, the timeline for the 6th of August to the 2nd of September.
+Right. The closing distinction here is crucial, and I'll give it exactly as it is
+without trying to resolve it. The nine days in August do not move.
+Okay.
+What moves is the arrow drawn through them.
+Wait, unpack the arrow for a second.
+So think of it as three different historical trajectories.
+Arrow one is bomb to surrender.
+Okay, a direct line?
+Arrow two is Soviet entry to surrender.
+Great.
+And arrow three is bomb to Cold War.
+Ah, and the crazy thing is, those nine actual days don't change at all, right?
+Exactly. The dates, the events, they are static.
+But depending on which of those three arrows you draw,
+you completely rewrite what the unit actually means historically.
+Entirely. And we don't choose between them.
+It's just vital to see that the arrow moves while the days stay still.
+Which brings us all the way back around, full circle to the village of Karol
+on the Kazakh steppe in 1989.
+Yeah, back to the public meeting.
+Think about the journey of that one word.
+Hiroshima begins as a physical place.
+Right.
+Then it becomes an event.
+And then it becomes the unit by which another landscape describes what happened to it.
+It's incredible linguistic migration.
+And it works because everyone recognizes the city.
+Exactly.
+But at the same time, it remains totally unstable
+because recognition is not the same as agreement about what is being counted.
+That is exactly the paradox.
+We all recognize the streets and the name,
+but we completely disagree on the arithmetic underneath it.
+And, you know, for everyone listening, here is a final thought to Molober.
+Consider what other profound historical events we unconsciously use
+as casual shorthand in our daily language.
+Oh, that's interesting.
+Yeah, we use them to measure severity or scale,
+turning these deeply complex human realities into simple arithmetic
+without ever truly agreeing on what they mean.
+It really makes you pause and think about the words you're using.
+Thank you so much for joining us for this deep dive.
+It was a pleasure.
+We'll catch you on the next one.

@@ -1,0 +1,213 @@
+[    0.0 -     7.4] Welcome to another Deep Dive. I'm your host, and today we have a really profound topic to get into.
+[    7.4 -    12.6] I'm a resident expert for today, and yeah, profound is definitely the word for it. It's a heavy one.
+[   12.6 -    17.8] It really is. We are exploring a harrowing chapter of history, the Holocaust, but we're
+[   17.8 -    22.9] looking at it through this highly specific kind of unexpected lens, which is the role of
+[   22.9 -    27.9] paper, bureaucracy, and archives. Right, because we want to understand this chilling duality
+[   27.9 -    34.6] of records, how the exact same types of paper were used as a weapon of mass destruction,
+[   34.6 -    40.4] but also as a desperate tool to preserve human memory. Exactly. So to start, I want you, the listener,
+[   40.4 -    45.5] to just imagine the scene. It is November 1940. You are in Warsaw, Poland.
+[   45.5 -    49.7] And the ghetto there has just been sealed tight. Yeah. The walls are up, trapping more than
+[   49.7 -    55.1] 400,000 people inside. And one of those people is a historian named Emmanuel Ringelblum.
+[   55.1 -    59.0] Ringelblum is such a central figure here, because while everyone else is, you know,
+[   59.0 -    62.5] just trying to survive starvation and disease, he starts collecting things.
+[   62.5 -    66.2] He's building an archive. He wanted to collect the paper life of the ghetto
+[   66.2 -    70.4] before it could be erased. Yeah, he knew that physical annihilation is almost
+[   70.4 -    75.4] always paired with historical erasure. So he gathered a clandestine group to help him.
+[   75.4 -    77.9] What were they called again? The sources mentioned a specific name.
+[   77.9 -    80.6] They were called Oeneg Shaves. Right.
+[   81.4 -    84.6] And they were called that because they held their secret meetings on Saturdays.
+[   84.6 -    87.1] And the things they gather. I mean, it's just everyday stuff, right?
+[   87.1 -    91.4] Completely mundane artifacts. They gathered personal testimony, ration cards,
+[   91.4 -    96.1] school essays from the kids trapped there. Exactly. Plus deportation notices,
+[   96.1 -   100.5] and then these incredibly detailed reports that they wrote themselves about daily life.
+[  100.5 -   103.6] Which was incredibly dangerous. If you get caught with that, you're dead.
+[  103.6 -   109.0] So how did they keep it hidden? They packed it all into metal boxes and two large milk cans.
+[  109.5 -   111.7] and then they bury them deep underground.
+[  111.7 -   115.2] Which is just, it's such a desperate act of preservation,
+[  115.2 -   120.4] an archive built by the victims, but the sources then pivot to
+[  121.7 -   124.7] another kind of archive happening at the exact same time.
+[  124.7 -   129.5] Right. We move from the victims in Warsaw to the perpetrators in Berlin.
+[  129.5 -   133.2] Yeah, let's talk about that. Let's look at the building inspector's office in Berlin.
+[  133.2 -   138.8] So this is Albert Speer's office, and on paper, being the building inspector for the capital
+[  138.8 -   141.8] sounds like the most boring bureaucratic job in the world.
+[  141.8 -   143.6] Like zoning permits and plumbing, right?
+[  143.6 -   150.1] Exactly. But this office was actively anticipating that thousands of apartments across Berlin
+[  150.1 -   151.6] were about to fall vacant.
+[  151.6 -   154.0] And they knew exactly why they were going to fall vacant.
+[  154.0 -   158.0] Yes, they drew up lists of all the Jewish tenants in the city,
+[  158.0 -   161.3] and they did this just by pulling from their Mastercard Index.
+[  161.3 -   164.7] And then they just, they passed those lists straight to the Gestapo.
+[  164.7 -   167.9] Yeah. No doors being kicked down to find people,
+[  167.9 -   170.2] just an office clerk handing over a tenant list.
+[  170.2 -   174.6] Okay, let's unpack this. We usually think of sweeping historical atrocities as these,
+[  174.6 -   179.0] you know, abstract faceless evils, like a dark storm rolling in.
+[  179.0 -   181.0] But the reality is much more administrative.
+[  181.0 -   186.8] Right. A policy reached a person through an office, a drawer, a name, and an address.
+[  186.8 -   188.9] That sentence really is the core of it.
+[  189.6 -   193.6] The mundane bureaucracy masks the massive violence,
+[  194.4 -   197.3] which leads us straight to January 20, 1942.
+[  197.3 -   198.8] The onesy conference.
+[  198.8 -   202.5] Yes. You have 15 men from various ministries, the Nazi party,
+[  203.1 -   204.6] and the security police.
+[  204.6 -   208.2] They all meet in this requisitioned villa outside Berlin.
+[  208.2 -   210.7] And the meeting only lasted for about 90 minutes, right?
+[  210.7 -   213.6] Just an hour and a half, just guys in suits having a meeting.
+[  213.6 -   216.0] But I want to jump in here and make something incredibly clear,
+[  216.0 -   219.2] because there is a big historical misconception about this meeting.
+[  219.2 -   219.9] Absolutely.
+[  219.9 -   222.8] The shooting behind the Eastern Front had already been running for seven months.
+[  223.1 -   226.3] and the first killings with gas had begun at Shimno.
+[  226.3 -   228.1] So the meeting did not start the murder,
+[  228.1 -   229.4] it coordinated it.
+[  229.4 -   231.7] Exactly, the machinery was already moving.
+[  231.7 -   234.9] They meant for 90 minutes just to optimize it.
+[  234.9 -   238.1] And to do that, they put a specific figure on the table.
+[  238.1 -   238.9] 11 million.
+[  238.9 -   240.5] 11 million Jews.
+[  240.5 -   243.1] But the country list attached to that 11 million,
+[  243.1 -   245.9] why does that specific breakdown matter so much?
+[  245.9 -   248.3] Because the sources really emphasize this.
+[  248.3 -   250.7] It matters because of who was on it.
+[  250.7 -   254.1] The list included places like Ireland, Portugal, Spain.
+[  254.1 -   255.9] Wait, England was on there too, right?
+[  255.9 -   259.1] Yes, England, Sweden, Switzerland, and Turkey.
+[  259.1 -   261.4] But none of those places were under German control.
+[  261.4 -   262.8] Exactly.
+[  262.8 -   266.4] It shows the sheer, terrifying ambition of this plan.
+[  266.4 -   269.7] And more importantly, a continental total like that.
+[  269.7 -   273.5] Breaking down populations in places like Ireland and Turkey.
+[  273.5 -   275.2] That doesn't just appear out of thin air
+[  275.2 -   277.0] when guys sit down at a table.
+[  277.0 -   278.4] Right, you can't just brainstorm that
+[  278.4 -   280.2] on a whiteboard in 90 minutes.
+[  280.2 -   283.1] No, it had been meticulously assembled beforehand,
+[  283.1 -   286.2] country by country, pulled from pre-existing statistics
+[  286.2 -   287.0] and records.
+[  287.0 -   289.3] The bureaucracy was already fully primed.
+[  289.3 -   291.1] And we only really know the details
+[  291.1 -   293.4] because they typed up the minutes of this meeting.
+[  293.4 -   295.9] 30 copies of those minutes were typed and distributed.
+[  295.9 -   298.3] And only one single copy survived the war, right?
+[  298.3 -   299.4] Just one.
+[  299.4 -   301.5] It was found in 1947 in the files
+[  301.5 -   303.0] of the German Foreign Office.
+[  303.0 -   305.4] It's terrifying how close that came to just being
+[  305.4 -   306.9] lost to history.
+[  306.9 -   309.7] But to understand how they even got that 11 million
+[  309.7 -   312.7] number, we really need to look at the census layer.
+[  312.7 -   314.5] Yeah, this is the center of the deep dive.
+[  314.5 -   316.1] We need to take this part slowly.
+[  316.1 -   318.9] Because it's all about how they gathered the data.
+[  318.9 -   321.1] Walk us through the timeline of the German census.
+[  321.1 -   325.2] OK, so on June 16, 1933.
+[  324.2 -   328.9] the census recorded religious affiliation. Okay, so just asking what religion you practiced.
+[  328.9 -   336.2] Right. But then, on May 17, 1939, they introduced a supplementary card. And this card asked a
+[  336.2 -   342.3] profoundly different question. It asked whether each of a person's four grandparents was Jewish
+[  342.3 -   347.7] by descent. Yes. It shifted from a question of practiced faith to a question of biological
+[  347.7 -   352.2] lineage. Which seems like a small administrative change, but it's actually a monumental shift.
+[  352.3 -   356.6] A different question fundamentally made a different list. And that new list was massive.
+[  356.6 -   360.8] You can't sort that much data across millions of paper forms by hand.
+[  360.8 -   365.4] You'd need an army of clerks working for decades. Exactly. So they needed technology. They used
+[  365.4 -   369.4] tabulating machines. The punch card machines. Right. And these were originally patented by an
+[  369.4 -   375.3] American, Herman Hollerith, for the 1890 American census. So a technology built just to count
+[  375.3 -   381.6] a growing population in the US gets repurposed for this. Yeah. In Germany, the machines were
+[  381.6 -   385.6] supplied and serviced by a company called De Hoang. And they weren't just used for the census,
+[  385.6 -   390.2] were they? No. There's documentation showing Hollerith installations in the SS Economic
+[  390.2 -   394.2] Administration and even in the Labor Deployment Offices of the camp system itself.
+[  394.2 -   399.1] They were everywhere. Yeah. But what's fascinating here is that we often imagine this
+[  399.1 -   405.1] as one giant, omnipotent supercomputer in Berlin running the whole Holocaust.
+[  405.1 -   409.8] Like a sci-fi villain's mainframe. Right. But that's a myth. These records did
+[  409.8 -   413.7] not live in one great machine. Because the operation was fractured across all these
+[  413.7 -   417.9] different administrative levels. Exactly. The census classified the national population,
+[  417.9 -   423.3] the building office kept track of local tenants, and then one official submissions turned those
+[  423.3 -   427.9] national figures into that continental estimate for WANSI. It was a distributed network.
+[  427.9 -   433.1] Each scale relied entirely on regular people preparing, moving, and reading the records.
+[  433.1 -   437.7] Everyday clerks doing their everyday jobs. And this is what disappears when history
+[  437.7 -   439.7] reduces the Holocaust to just...
+[  439.7 -   443.2] a policy at one end and millions at the other.
+[  443.2 -   444.1] He lose the middle.
+[  444.1 -   445.4] Exactly.
+[  445.4 -   448.7] Between those two extremes stood the mundane forms
+[  448.7 -   451.5] and files that attached a massive abstraction
+[  451.5 -   453.1] to a real person's address.
+[  453.1 -   456.2] It forces you to look at how ordinary the tools were.
+[  456.2 -   458.5] But because it involved machines,
+[  458.5 -   461.4] there's this narrative that the technology is to blame
+[  461.4 -   462.6] and I wanna push back on that.
+[  462.6 -   463.4] Oh, definitely.
+[  463.4 -   465.1] The tempting version of this story
+[  465.1 -   467.8] gives the machine too much power.
+[  467.8 -   470.1] The machines did not cause the murders
+[  470.1 -   472.7] and the record here does not show that they were necessary.
+[  472.7 -   474.0] I completely agree.
+[  474.0 -   475.0] Because honestly,
+[  475.0 -   477.1] much of the work was still done entirely by hand.
+[  477.1 -   477.9] Right.
+[  477.9 -   479.7] With type lists and wooden card doors.
+[  479.7 -   480.5] Yeah.
+[  480.5 -   482.4] The real danger of that census layer
+[  482.4 -   484.2] wasn't the tabulating machine.
+[  484.2 -   486.1] It was that it removed anonymity.
+[  486.1 -   488.3] Because of that 1939 supplementary card
+[  488.3 -   490.0] asking about your four grandparents.
+[  490.0 -   491.0] Exactly.
+[  491.0 -   493.2] Before that, your descent was just something
+[  493.2 -   495.0] a neighbor might or might not know.
+[  495.0 -   497.2] It was community gossip or memory.
+[  497.2 -   499.4] But after that form, it was hard data.
+[  499.4 -   501.8] It was held by name and address on a piece of paper
+[  501.8 -   503.8] that the person had filled in themselves.
+[  503.8 -   506.3] They handed the state the exact data points
+[  506.3 -   508.0] needed to target them.
+[  508.0 -   510.7] Which brings up this incredibly unsettling connection
+[  510.7 -   513.2] to our modern ordinary lives.
+[  513.2 -   515.3] Because we fill out census forms today.
+[  515.3 -   516.3] We do.
+[  516.3 -   517.5] A modern census form
+[  517.5 -   519.4] still makes a household countable.
+[  519.4 -   522.3] It fixes categories before anyone filling it in
+[  522.3 -   525.0] can possibly know every later use of their answers.
+[  525.0 -   526.4] Which is chilling.
+[  526.4 -   528.4] But the connection here isn't that a database
+[  528.4 -   529.9] automatically leads to murder.
+[  529.9 -   530.7] No, not at all.
+[  530.7 -   532.2] It's that the question on a form
+[  532.2 -   535.5] decides what can be counted later and by whom.
+[  535.5 -   536.6] The date is just waiting there
+[  536.6 -   538.5] for someone to decide how to use it.
+[  538.0 -   543.3] which brings us full circle back to Emmanuel Ringelblum and Oenig Shubbs in Warsaw.
+[  543.3 -   545.6] Right. They were building the exact opposite archive.
+[  545.6 -   547.3] Out of the exact same materials.
+[  547.3 -   552.1] Yes. They took the names, the addresses, the ration cards, the deportation notices,
+[  552.1 -   555.6] and they bury them specifically so the people named in them could not be
+[  555.6 -   557.5] quite at least subtracted from history.
+[  557.5 -   562.3] It was a final act of resistance, but Ringelblum himself didn't survive, did he?
+[  562.3 -   566.7] No. He managed to hide for a while, but he was found outside the Ghetto Wall
+[  566.8 -   570.2] in March 1944, and he was shot.
+[  570.2 -   574.1] That's just, it's devastating. He never got to see if his archive survived.
+[  574.1 -   578.4] He didn't, but the legacy of those milk cans is incredible.
+[  578.4 -   583.0] Tell us about the recovery, because digging that up out of the rubble of Warsaw
+[  583.0 -   584.6] must have been nearly impossible.
+[  584.6 -   589.6] It really was, but they found the first cash dug out of the rubble in 1946.
+[  590.8 -   593.2] And then a second one was found in 1950.
+[  593.2 -   594.4] Rather more.
+[  594.4 -   597.8] We know there was a third cash buried, but it has never been found.
+[  597.8 -   598.8] It's still lost.
+[  598.8 -   601.8] Man, but the papers that were recovered, where are they now?
+[  601.8 -   605.3] They reside at the Jewish Historical Institute in Warsaw today,
+[  605.3 -   607.0] along with one of the original milk cans.
+[  607.5 -   611.7] That brings up such a profound, final thought for everyone listening to Mallover.
+[  612.3 -   615.8] The exact same piece of paper, a name and an address,
+[  615.8 -   618.5] could help an office find a person to destroy them,
+[  618.5 -   621.1] or it could help an archive keep their memory alive.
+[  621.1 -   623.0] The form itself is completely neutral.
+[  623.0 -   627.3] Right. Nothing inherently inside the form decided which way it would be used.
+[  627.3 -   631.4] The power and the real danger lay entirely in the hands of the people reading it.
+[  631.4 -   633.6] The systems we choose to build around the data.
+[  633.6 -   634.6] Exactly.
+[  634.6 -   637.2] And today we are constantly leaving digital footprints.
+[  637.2 -   639.0] We fill out forms, we check boxes.
+[  639.0 -   642.5] We're building massive archives of our own lives every single day.
+[  642.5 -   644.5] And unlike those milk cans in Warsaw,
+[  644.5 -   648.2] a digital footprint doesn't rust and it can never truly be buried.
+[  648.2 -   650.2] Thanks for joining us on this deep dive.

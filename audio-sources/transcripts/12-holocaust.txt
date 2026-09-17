@@ -1,0 +1,213 @@
+Welcome to another Deep Dive. I'm your host, and today we have a really profound topic to get into.
+I'm a resident expert for today, and yeah, profound is definitely the word for it. It's a heavy one.
+It really is. We are exploring a harrowing chapter of history, the Holocaust, but we're
+looking at it through this highly specific kind of unexpected lens, which is the role of
+paper, bureaucracy, and archives. Right, because we want to understand this chilling duality
+of records, how the exact same types of paper were used as a weapon of mass destruction,
+but also as a desperate tool to preserve human memory. Exactly. So to start, I want you, the listener,
+to just imagine the scene. It is November 1940. You are in Warsaw, Poland.
+And the ghetto there has just been sealed tight. Yeah. The walls are up, trapping more than
+400,000 people inside. And one of those people is a historian named Emmanuel Ringelblum.
+Ringelblum is such a central figure here, because while everyone else is, you know,
+just trying to survive starvation and disease, he starts collecting things.
+He's building an archive. He wanted to collect the paper life of the ghetto
+before it could be erased. Yeah, he knew that physical annihilation is almost
+always paired with historical erasure. So he gathered a clandestine group to help him.
+What were they called again? The sources mentioned a specific name.
+They were called Oeneg Shaves. Right.
+And they were called that because they held their secret meetings on Saturdays.
+And the things they gather. I mean, it's just everyday stuff, right?
+Completely mundane artifacts. They gathered personal testimony, ration cards,
+school essays from the kids trapped there. Exactly. Plus deportation notices,
+and then these incredibly detailed reports that they wrote themselves about daily life.
+Which was incredibly dangerous. If you get caught with that, you're dead.
+So how did they keep it hidden? They packed it all into metal boxes and two large milk cans.
+and then they bury them deep underground.
+Which is just, it's such a desperate act of preservation,
+an archive built by the victims, but the sources then pivot to
+another kind of archive happening at the exact same time.
+Right. We move from the victims in Warsaw to the perpetrators in Berlin.
+Yeah, let's talk about that. Let's look at the building inspector's office in Berlin.
+So this is Albert Speer's office, and on paper, being the building inspector for the capital
+sounds like the most boring bureaucratic job in the world.
+Like zoning permits and plumbing, right?
+Exactly. But this office was actively anticipating that thousands of apartments across Berlin
+were about to fall vacant.
+And they knew exactly why they were going to fall vacant.
+Yes, they drew up lists of all the Jewish tenants in the city,
+and they did this just by pulling from their Mastercard Index.
+And then they just, they passed those lists straight to the Gestapo.
+Yeah. No doors being kicked down to find people,
+just an office clerk handing over a tenant list.
+Okay, let's unpack this. We usually think of sweeping historical atrocities as these,
+you know, abstract faceless evils, like a dark storm rolling in.
+But the reality is much more administrative.
+Right. A policy reached a person through an office, a drawer, a name, and an address.
+That sentence really is the core of it.
+The mundane bureaucracy masks the massive violence,
+which leads us straight to January 20, 1942.
+The onesy conference.
+Yes. You have 15 men from various ministries, the Nazi party,
+and the security police.
+They all meet in this requisitioned villa outside Berlin.
+And the meeting only lasted for about 90 minutes, right?
+Just an hour and a half, just guys in suits having a meeting.
+But I want to jump in here and make something incredibly clear,
+because there is a big historical misconception about this meeting.
+Absolutely.
+The shooting behind the Eastern Front had already been running for seven months.
+and the first killings with gas had begun at Shimno.
+So the meeting did not start the murder,
+it coordinated it.
+Exactly, the machinery was already moving.
+They meant for 90 minutes just to optimize it.
+And to do that, they put a specific figure on the table.
+11 million.
+11 million Jews.
+But the country list attached to that 11 million,
+why does that specific breakdown matter so much?
+Because the sources really emphasize this.
+It matters because of who was on it.
+The list included places like Ireland, Portugal, Spain.
+Wait, England was on there too, right?
+Yes, England, Sweden, Switzerland, and Turkey.
+But none of those places were under German control.
+Exactly.
+It shows the sheer, terrifying ambition of this plan.
+And more importantly, a continental total like that.
+Breaking down populations in places like Ireland and Turkey.
+That doesn't just appear out of thin air
+when guys sit down at a table.
+Right, you can't just brainstorm that
+on a whiteboard in 90 minutes.
+No, it had been meticulously assembled beforehand,
+country by country, pulled from pre-existing statistics
+and records.
+The bureaucracy was already fully primed.
+And we only really know the details
+because they typed up the minutes of this meeting.
+30 copies of those minutes were typed and distributed.
+And only one single copy survived the war, right?
+Just one.
+It was found in 1947 in the files
+of the German Foreign Office.
+It's terrifying how close that came to just being
+lost to history.
+But to understand how they even got that 11 million
+number, we really need to look at the census layer.
+Yeah, this is the center of the deep dive.
+We need to take this part slowly.
+Because it's all about how they gathered the data.
+Walk us through the timeline of the German census.
+OK, so on June 16, 1933.
+the census recorded religious affiliation. Okay, so just asking what religion you practiced.
+Right. But then, on May 17, 1939, they introduced a supplementary card. And this card asked a
+profoundly different question. It asked whether each of a person's four grandparents was Jewish
+by descent. Yes. It shifted from a question of practiced faith to a question of biological
+lineage. Which seems like a small administrative change, but it's actually a monumental shift.
+A different question fundamentally made a different list. And that new list was massive.
+You can't sort that much data across millions of paper forms by hand.
+You'd need an army of clerks working for decades. Exactly. So they needed technology. They used
+tabulating machines. The punch card machines. Right. And these were originally patented by an
+American, Herman Hollerith, for the 1890 American census. So a technology built just to count
+a growing population in the US gets repurposed for this. Yeah. In Germany, the machines were
+supplied and serviced by a company called De Hoang. And they weren't just used for the census,
+were they? No. There's documentation showing Hollerith installations in the SS Economic
+Administration and even in the Labor Deployment Offices of the camp system itself.
+They were everywhere. Yeah. But what's fascinating here is that we often imagine this
+as one giant, omnipotent supercomputer in Berlin running the whole Holocaust.
+Like a sci-fi villain's mainframe. Right. But that's a myth. These records did
+not live in one great machine. Because the operation was fractured across all these
+different administrative levels. Exactly. The census classified the national population,
+the building office kept track of local tenants, and then one official submissions turned those
+national figures into that continental estimate for WANSI. It was a distributed network.
+Each scale relied entirely on regular people preparing, moving, and reading the records.
+Everyday clerks doing their everyday jobs. And this is what disappears when history
+reduces the Holocaust to just...
+a policy at one end and millions at the other.
+He lose the middle.
+Exactly.
+Between those two extremes stood the mundane forms
+and files that attached a massive abstraction
+to a real person's address.
+It forces you to look at how ordinary the tools were.
+But because it involved machines,
+there's this narrative that the technology is to blame
+and I wanna push back on that.
+Oh, definitely.
+The tempting version of this story
+gives the machine too much power.
+The machines did not cause the murders
+and the record here does not show that they were necessary.
+I completely agree.
+Because honestly,
+much of the work was still done entirely by hand.
+Right.
+With type lists and wooden card doors.
+Yeah.
+The real danger of that census layer
+wasn't the tabulating machine.
+It was that it removed anonymity.
+Because of that 1939 supplementary card
+asking about your four grandparents.
+Exactly.
+Before that, your descent was just something
+a neighbor might or might not know.
+It was community gossip or memory.
+But after that form, it was hard data.
+It was held by name and address on a piece of paper
+that the person had filled in themselves.
+They handed the state the exact data points
+needed to target them.
+Which brings up this incredibly unsettling connection
+to our modern ordinary lives.
+Because we fill out census forms today.
+We do.
+A modern census form
+still makes a household countable.
+It fixes categories before anyone filling it in
+can possibly know every later use of their answers.
+Which is chilling.
+But the connection here isn't that a database
+automatically leads to murder.
+No, not at all.
+It's that the question on a form
+decides what can be counted later and by whom.
+The date is just waiting there
+for someone to decide how to use it.
+which brings us full circle back to Emmanuel Ringelblum and Oenig Shubbs in Warsaw.
+Right. They were building the exact opposite archive.
+Out of the exact same materials.
+Yes. They took the names, the addresses, the ration cards, the deportation notices,
+and they bury them specifically so the people named in them could not be
+quite at least subtracted from history.
+It was a final act of resistance, but Ringelblum himself didn't survive, did he?
+No. He managed to hide for a while, but he was found outside the Ghetto Wall
+in March 1944, and he was shot.
+That's just, it's devastating. He never got to see if his archive survived.
+He didn't, but the legacy of those milk cans is incredible.
+Tell us about the recovery, because digging that up out of the rubble of Warsaw
+must have been nearly impossible.
+It really was, but they found the first cash dug out of the rubble in 1946.
+And then a second one was found in 1950.
+Rather more.
+We know there was a third cash buried, but it has never been found.
+It's still lost.
+Man, but the papers that were recovered, where are they now?
+They reside at the Jewish Historical Institute in Warsaw today,
+along with one of the original milk cans.
+That brings up such a profound, final thought for everyone listening to Mallover.
+The exact same piece of paper, a name and an address,
+could help an office find a person to destroy them,
+or it could help an archive keep their memory alive.
+The form itself is completely neutral.
+Right. Nothing inherently inside the form decided which way it would be used.
+The power and the real danger lay entirely in the hands of the people reading it.
+The systems we choose to build around the data.
+Exactly.
+And today we are constantly leaving digital footprints.
+We fill out forms, we check boxes.
+We're building massive archives of our own lives every single day.
+And unlike those milk cans in Warsaw,
+a digital footprint doesn't rust and it can never truly be buried.
+Thanks for joining us on this deep dive.

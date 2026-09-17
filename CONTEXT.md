@@ -115,3 +115,13 @@ corpus-orig/, corpus-en/ are copyrighted or derived; the repo publishes to GitHu
 
 
 - 2026-08-09: reading order made strictly chronological (reader decision): 1917 = ch. 5, Versailles = ch. 6; Part II now runs war → revolution → peace.
+
+## Front door (2026-09-18)
+
+`index.html` is now a seven-essay front page: tea first, then the six ranked highest for a general
+reader (battleships, fire door, quinine, passport, streetcars, empty chair), each with a hook and its
+episode length. The full contents moved unchanged to `contents.html`; site-wide "Contents" links point
+there. Nothing was deleted or renumbered: chapter files, kickers, part openers and the prev/next chain
+are untouched, so a reader who enters a chapter is inside the full book. `verify.sh` checks count
+sync and links against `contents.html`. Audio: 13 chapters embedded (`audio-sources/README.md` has
+the table); analytics via `static/feedback.js` on every page.

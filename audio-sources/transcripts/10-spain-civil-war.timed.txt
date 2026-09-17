@@ -1,0 +1,236 @@
+[    0.0 -     6.1] Imagine watching the sky above your town just, you know, fill with bombers for three straight hours, right?
+[    6.1 -    11.3] And knowing you do not possess a single anti-aircraft gun to shoot back. You don't even have a machine gun.
+[   11.3 -    13.5] Nothing, just absolute vulnerability.
+[   13.5 -    17.0] Exactly. And that is what happened in a Basque town called Granica.
+[   17.5 -    22.5] But for today's deep dive, we are, um, we're not actually looking directly at the falling bombs.
+[   22.5 -    23.9] We're looking at the receipts.
+[   23.9 -    24.6] The ledgers.
+[   24.6 -    25.8] Right, the ledgers.
+[   25.8 -    31.0] Because before those planes ever took off, someone, somewhere, had to figure out how to pay for them.
+[   31.7 -    37.7] Our mission today is uncovering the hidden, ordinary financial mechanics that sit quietly
+[   37.7 -    40.4] right behind massive historical events.
+[   40.4 -    44.9] Yeah, because long before the first shot is fired and honestly long after the smoke clears,
+[   44.9 -    47.5] the accounting dictates what is actually possible on the ground.
+[   47.5 -    53.0] So true. And to see those mechanics in action, we really need to place ourselves in that Basque town first.
+[   53.0 -    55.6] Granica is about 30 kilometers east of Bilbao.
+[   56.2 -    61.5] And I want you to picture the afternoon of Monday, 26 April, 1937.
+[   61.5 -    62.5] It was a market day.
+[   62.5 -    63.4] A market day, yeah.
+[   64.0 -    65.8] Completely routine.
+[   65.8 -    72.3] And the starkest way to understand the reality of that afternoon is through an inventory recorded by a local priest.
+[   72.3 -    75.2] He was striking in his clarity about what his town lacked.
+[   75.2 -    76.0] He really was.
+[   76.0 -    79.6] He noted that Granica had no anti-aircraft guns.
+[   79.6 -    82.6] There were no guns in the town at all, not even a machine gun.
+[   82.6 -    85.5] Which is just, I mean, it's chilling when you know it's coming.
+[   85.5 -    90.5] Right, because then aircraft came over the town center in waves for more than three hours.
+[   90.5 -    91.4] Three hours of that.
+[   91.4 -    97.0] Yeah, but if you are trying to understand how this machinery of war actually functions,
+[   97.0 -    99.8] you really cannot start on that Monday afternoon.
+[   99.8 -   101.8] No, you have to step back chronologically.
+[  101.8 -   105.3] You have to look at how those aircraft entered the war in the first place.
+[  105.3 -   109.5] Because, I mean, the planes do not just materialize out of thin air over the town center.
+[  109.5 -   110.1] Right.
+[  110.1 -   115.7] On 17 and 18 July 1936, part of the Spanish army rose against the government.
+[  116.1 -   119.4] and that uprising began in Spanish Morocco.
+[  119.4 -   122.2] Which presents a pretty immediate geographical problem.
+[  122.2 -   124.0] Right, if you have an army sitting in Morocco
+[  124.0 -   125.3] and they wanna fight on the mainland,
+[  125.3 -   126.4] you have to get them there.
+[  126.4 -   128.9] The Strait of Gibraltar is literally right in the way.
+[  128.9 -   131.0] Exactly, and that stretch of water
+[  131.0 -   134.1] forces a complete logistical shift.
+[  134.1 -   137.4] So starting from late July, German and Italian
+[  137.4 -   139.7] transport planes carried the Army of Africa
+[  139.7 -   141.2] across the Strait of Gibraltar.
+[  141.2 -   142.3] So they flew them over.
+[  142.3 -   144.1] They did, and then by November,
+[  144.1 -   146.1] the German Condor Legion followed.
+[  146.1 -   147.7] So the key thing here,
+[  147.7 -   150.1] and I think this really turns the whole story,
+[  150.1 -   154.0] is that aircraft first moved an army into the war,
+[  154.0 -   155.5] then they became part of the war.
+[  155.5 -   158.1] Yes, that is exactly the sequence.
+[  158.1 -   160.8] They were the delivery mechanism across the water,
+[  160.8 -   162.7] and once that job was done,
+[  162.7 -   164.0] they, well, they transitioned
+[  164.0 -   165.5] into flying the bombing runs themselves.
+[  165.5 -   166.4] Which is wild.
+[  166.4 -   168.4] And it brings us to this massive disconnect
+[  168.4 -   171.1] between the physical reality on the ground,
+[  171.1 -   173.1] or in the air, I guess,
+[  173.1 -   175.3] and the diplomatic reality on paper.
+[  175.3 -   177.0] The paper reality is always different.
+[  177.0 -   178.7] Because while these transports and bombers
+[  178.7 -   180.5] are physically moving armies,
+[  180.5 -   182.0] politicians in other countries
+[  182.0 -   184.1] are trying to draw lines on maps.
+[  184.1 -   186.7] France proposed a non-intervention agreement
+[  186.7 -   188.7] in August, 1936.
+[  188.7 -   190.5] And then committee began meeting in London
+[  190.5 -   193.4] from the following month to figure all that out.
+[  193.4 -   195.1] Right, but wait, I need to pause here
+[  195.1 -   196.0] because this is the part
+[  196.0 -   198.5] that is just so hard to wrap my head around.
+[  198.6 -   201.7] Germany, Italy, and the Soviet Union
+[  201.7 -   203.8] all adhere to the agreement.
+[  203.8 -   204.9] They all sign on.
+[  204.9 -   206.9] But all three supplied the war.
+[  206.9 -   208.9] I mean, they adhere to non-intervention
+[  208.9 -   210.5] while literally intervening.
+[  210.5 -   212.3] Yeah, they did both at the same time.
+[  212.3 -   213.8] And that contradiction brings us
+[  213.8 -   216.8] to the real mystery of this deep dive.
+[  216.8 -   219.3] When you have an influx of military hardware
+[  219.3 -   220.7] on this kind of scale,
+[  220.7 -   223.2] the question was not only who would send aircraft,
+[  223.2 -   225.2] tanks, troops, and advisors.
+[  225.2 -   226.7] Right, the real question is
+[  226.7 -   228.1] how a country split in two
+[  228.1 -   229.2] would pay for supplies
+[  229.2 -   231.2] that officially were not supposed to arrive.
+[  231.2 -   232.2] Exactly.
+[  232.2 -   235.1] How do you process an invoice for an army
+[  235.1 -   236.7] that isn't supposed to be there
+[  236.7 -   238.7] sent by a country that publicly promised
+[  238.7 -   239.5] they weren't sending it?
+[  239.5 -   241.5] It's like doing business in a ghost economy.
+[  241.5 -   242.3] It really is.
+[  242.3 -   246.3] And war is, well, it's astonishingly expensive.
+[  246.3 -   247.5] So let's look at the Republic side
+[  247.5 -   249.5] of the ledger first, the government side.
+[  249.0 -   254.2] they paid first. And they paid first because they had this just staggering asset sitting there.
+[  254.2 -   260.4] In 1936, the Bank of Spain held the world as fourth largest gold reserve. Fourth largest on the
+[  260.4 -   265.7] planet. We are talking about more than 700 tons of gold. Yeah. And to understand how they even
+[  265.7 -   271.5] had that much, you have to look back at the previous war. Spain remained neutral. And they
+[  271.5 -   276.4] built up this wealth by selling to both sides while neutral in the previous war. So they
+[  276.4 -   281.9] just stockpiled it. Yep. So by the time this new uprising happened, they held more than 700 tons,
+[  282.6 -   289.0] much of it in coin, in bars, and in foreign holdings. 700 tons. I'm just trying to picture the sheer
+[  289.0 -   294.9] physical weight of that. But here's the catch, right? Having a vault full of gold is really only
+[  294.9 -   300.2] useful if you can actually spend it. Right. And that non-intervention agreement creates this
+[  300.2 -   305.0] massive bottleneck. Non-intervention meant that a vast reserve could buy little in Paris or
+[  305.0 -   310.1] London. The reserve was enormous and the shops were sharp. That is the perfect way to say it.
+[  310.1 -   315.0] Yeah. The international markets were officially closed to them. So the Republic had to find a
+[  315.0 -   319.0] shop that was open. And that required physically moving the gold out of the country. Which is
+[  319.0 -   324.7] a whole operation in itself. Oh, totally. In September, on the authority of a decree signed
+[  324.7 -   331.4] by the finance minister Juan Le Green, the movement began. About 510 tons, roughly three-quarters
+[  331.4 -   336.0] of the vault went by truck to the naval base at Cartagena. Let's just sit with that logistics
+[  336.0 -   343.0] problem for a second. About 510 tons of gold bars and coins. If you are listening to this,
+[  343.6 -   349.0] try to conceptualize moving that much metal out of a national bank. Into trucks. Right.
+[  349.0 -   352.7] Into trucks. Driving it across the country, hoping you just safely reach a naval base.
+[  352.7 -   357.0] It is terrifying when you think about it. But they do get it to Cartagena. And then
+[  357.0 -   362.0] in late October, four Soviet ships carried it to Odessa. Just to account for the rest of it,
+[  362.0 -   366.6] much of the remainder had already been sent or sold through France. But this main shipment,
+[  366.6 -   371.8] this roughly 510 tons that goes from the trucks to Cartagena to the four Soviet ships to
+[  372.1 -   378.7] Odessa its final destination is Moscow and here's the crucial transformation in Moscow the metal became an account
+[  378.8 -   383.9] Okay, hold on we need to slow down here the metal became an account because I mean physical gold is a tangible thing
+[  383.9 -   389.5] You hold it you have the power. So how does handing it over to someone else and turning it into a ledger entry?
+[  390.2 -   395.7] Suddenly strip them of their purchasing power because the shift in leverage is just absolute think about it
+[  395.8 -   398.6] The Republic knew what it had deposited, right?
+[  398.6 -   403.1] They knew the exact weight of the gold on those trucks, but the Soviet side
+[  403.6 -   408.3] Held the pen over the other column meaning they determine the prices
+[  408.3 -   413.8] They determine the price of everything the aircraft the freight to get the stuff to Spain the advisors
+[  414.7 -   420.6] Everything it literally reminds me of like if you were to hand over your entire life savings to a contractor to build you a house
+[  420.6 -   426.2] Yeah, but you give them all the money at front and then they just get to decide the price of the materials and the value
+[  426.2 -   430.9] Of your money behind closed doors. You have zero leverage. They're completely blind to the actual costs
+[  430.9 -   435.5] You just have to trust the math they are doing in a room. You aren't even allowed to enter exactly
+[  435.5 -   440.5] Yeah, and it is even more complicated than just marking up the sticker price of a tank
+[  440.8 -   445.7] The Soviet side also held the pen over the exchange rates between three currencies
+[  446.4 -   449.4] Pesetas rubles and dollars. Oh, wow
+[  449.4 -   451.6] So if the gold is valued in dollars
+[  451.6 -   455.8] But the goods are priced in rubles and the Republic's baseline is Pesetas
+[  455.8 -   460.2] They can just drain the account exponentially faster. They don't even have to change the price of the plane
+[  460.2 -   464.2] They just change the math used to convert the money and the Republic couldn't see what they were doing
+[  464.7 -   469.4] No, the Republic knew what it had deposited but could not see what it was being charged and
+[  470.0 -   477.4] Mechanized warfare burns through capitals so fast by 1938 the account was spent and deliveries were slowing
+[  477.6 -   483.1] So all that gold about 510 tons just absorbed into this hidden ledger
+[  483.1 -   484.9] It sounds like they just completely threw it away
+[  484.9 -   490.6] Well, let me stop you there the gold did not lose the Republic the war really because it feels like a total disaster
+[  490.8 -   495.7] Based on what you just described. I know but we have to look at what the metal actually achieved on the ground
+[  495.7 -   497.7] Yeah, it bought real aircraft
+[  497.8 -   503.2] the fighters and tanks it paid for helped hold Madrid through the winter of 1936.
+[  503.2 -   504.8] Okay, so it bought them survival.
+[  504.8 -   507.6] Exactly. It had a massive tangible impact.
+[  507.6 -   510.0] But it made the Republic the customer of one supplier.
+[  510.0 -   512.6] At prices only that supplier could see.
+[  512.6 -   515.1] Right. They paid first and they paid blindly.
+[  515.1 -   515.6] Yep.
+[  515.6 -   518.7] So that raises a pretty obvious question for you if you're listening to this.
+[  519.4 -   522.7] If Francisco Franco aside didn't have the national vault,
+[  523.2 -   525.6] how were they paying for their side of the war?
+[  525.6 -   529.3] Well, the financial model on the other side flips completely
+[  529.3 -   531.4] because the reserves stayed with the government.
+[  531.4 -   534.1] The other side paid later and bought on credit.
+[  534.1 -   535.6] A civil war on credit?
+[  535.6 -   537.7] I mean, how does that actually work mechanically?
+[  537.7 -   541.2] Berlin isn't just shipping over transport planes for free, right?
+[  541.2 -   542.6] No, absolutely not.
+[  542.6 -   545.6] Berlin channeled trade through two special companies,
+[  545.6 -   547.2] one in Spain and one in Germany.
+[  547.2 -   548.4] Wait, two companies?
+[  548.4 -   550.8] How do they handle a massive war debt?
+[  550.8 -   553.4] So these companies handled the billing.
+[  553.4 -   557.1] They built for aircraft, fuel and the Condor Legion's upkeep.
+[  557.8 -   561.4] But instead of demanding gold, which Franco side obviously didn't have,
+[  561.4 -   564.8] they took repayment in materials that Germany armament needed.
+[  564.8 -   566.5] Oh, so raw materials.
+[  566.5 -   566.9] Like what?
+[  566.9 -   569.2] They took iron ore from Viskaya.
+[  569.2 -   569.3] Yeah.
+[  569.3 -   571.8] And they took pyrites from the Huelva mines.
+[  571.8 -   574.0] So they're basically taking out a massive loan,
+[  574.5 -   576.5] but instead of putting down cash,
+[  576.5 -   579.6] they're putting down the unmind mountains of their own country.
+[  579.6 -   580.8] That is exactly it.
+[  581.4 -   584.8] The system meant no actual money had to cross borders.
+[  585.5 -   589.2] They are literally trading the geological wealth of the country
+[  589.2 -   591.0] to pay for the planes today.
+[  591.0 -   593.4] Digging up the future to pay for the present.
+[  593.4 -   594.0] Yeah.
+[  594.0 -   596.3] And Berlin was very organized about this.
+[  596.9 -   598.8] But they were not the only creditor.
+[  598.8 -   602.4] Rome extended the larger credit line and sent the larger army.
+[  602.4 -   604.6] Italy financed an even bigger piece of this.
+[  604.6 -   605.3] They did.
+[  605.3 -   609.1] And the scale of the debt generated by Rome was just astronomical.
+[  609.5 -   614.8] To give you a sense of how long these financial mechanisms cast a shadow, Spain was still paying
+[  614.8 -   618.2] installments on its Civil War debt to Rome in the 1960s.
+[  618.2 -   619.2] Wait, really?
+[  619.2 -   620.2] The 1960s?
+[  620.2 -   621.7] That is a generation later.
+[  621.7 -   626.4] A generation after the Italian state that extended the credit had completely vanished.
+[  626.4 -   627.4] That is incredible.
+[  627.4 -   630.8] The physical destruction of the war is one thing, but the financial architecture just
+[  630.8 -   633.4] kept churning decades later.
+[  633.4 -   637.0] Collecting on a debt for an army that was long gone to a state that didn't exist
+[  637.0 -   638.4] anymore.
+[  638.4 -   643.4] When you look at both ledgers side by side, it is really a dual tragedy.
+[  643.4 -   646.7] One side paid cash into an account it could not audit.
+[  646.7 -   650.5] And the other signed for goods against war it had not yet dug.
+[  650.5 -   651.5] Exactly.
+[  651.5 -   655.7] Spain's savings and minerals financed both ends of Spain's war.
+[  655.7 -   660.2] You know what strikes me about this, as we lay out these incredibly complex national
+[  660.2 -   665.1] ledgers, is how utterly ordinary the two arrangements are at a household scale.
+[  665.1 -   667.0] Oh, they're completely recognizable.
+[  667.0 -   668.0] Right.
+[  668.2 -   672.2] The public situation is just a payment made up front and difficult to follow, like handing
+[  672.2 -   674.8] over a deposit and never seeing the itemized receipts.
+[  674.8 -   675.8] Right.
+[  675.8 -   678.0] And the other side is just a purchase made against future wages.
+[  678.0 -   681.4] Yeah, using a credit card today and promising to work it off tomorrow.
+[  681.4 -   685.9] It is just two ordinary financial arrangements enlarged.
+[  685.9 -   690.3] Enlarged until a whole country's gold in his mines were swallowed up inside them.
+[  690.3 -   693.9] Enlarged to the point of fielding aircraft that fly over a Basque town for three
+[  693.9 -   694.9] hours.
+[  694.9 -   695.9] Exactly.
+[  695.9 -   700.8] And yet, that financial reality is almost entirely invisible when we look back.
+[  700.8 -   703.1] The bombing being what remains in photographs.
+[  703.1 -   704.6] We see the crumbling buildings.
+[  704.6 -   709.0] We remember the local priest talking about the absolute lack of anti-aircraft guns.
+[  709.0 -   713.4] But behind the aircraft said two ordinary financial arrangements enlarged.
+[  713.4 -   717.2] Which leaves you with something really profound to mull over as you go about the rest of
+[  717.2 -   718.4] your day.
+[  718.4 -   723.5] We are so easily captivated by the visual shock of history, the photographs of destruction,
+[  723.5 -   726.9] the visceral reality of armies moving across us straight.
+[  726.9 -   731.6] But how does our hyper focus on the visible destruction prevent us from seeing the quiet
+[  731.6 -   735.4] bureaucratic ledgers that actually make that destruction possible in the first place?

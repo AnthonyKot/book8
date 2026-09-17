@@ -1,0 +1,180 @@
+[    0.0 -     2.1] Welcome everyone to today's deep dive.
+[    2.1 -     3.1] We're so glad you can join us.
+[    3.1 -     4.9] Yeah, really excited for this one.
+[    4.9 -     8.3] And for this deep dive, we're going on a bit of a journey.
+[    8.3 -    13.8] We're looking at this really strange, almost surreal phenomenon
+[   13.8 -    19.9] of how a specific physical place on a map, like a real city,
+[   19.9 -    23.2] somehow transforms into this plural mathematical unit
+[   23.2 -    23.8] of measurement.
+[   23.8 -    26.1] Right, which is not something we usually
+[   26.1 -    27.4] think about when we use language.
+[   27.4 -    28.4] Exactly.
+[   28.4 -    30.7] So for you listening, I want to set the scene.
+[   30.7 -    34.2] We are going to start in February, 1989.
+[   34.2 -    37.4] And we are out on the Kazakh step, specifically
+[   37.4 -    39.8] in this village called Karol.
+[   39.8 -    42.0] And there's a public meeting taking place there.
+[   42.0 -    43.4] A really important one, actually.
+[   43.4 -    44.7] Yeah, the people there had gathered
+[   44.7 -    46.8] to adopt an appeal about the nuclear test
+[   46.8 -    48.7] site that was right next door to them.
+[   48.7 -    50.6] And just to give you the full weight of this,
+[   50.6 -    53.8] this is the exact meeting that began the movement, which
+[   53.8 -    56.2] actually closed that site two years later.
+[   56.2 -    59.6] It's incredible historical momentum starting right there.
+[   59.6 -    60.6] It really is.
+[   60.6 -    63.4] But here is the thing that we really need to focus on.
+[   63.4 -    67.9] Today, if you look at a Kazakh 11th grade school textbook,
+[   67.9 -    70.2] it actually reproduces that appeal.
+[   70.2 -    70.8] Right.
+[   70.8 -    73.0] And there's this one specific sentence in that text
+[   73.0 -    74.8] that just completely stops you.
+[   74.8 -    79.2] The quote is, over 40 years, thousands of Hiroshima's
+[   79.2 -    80.2] have exploded here.
+[   80.2 -    81.2] Wow.
+[   81.2 -    82.6] Yeah, that really hits you.
+[   82.6 -    83.1] Right.
+[   83.1 -    84.5] OK, so let's unpack this.
+[   84.5 -    87.4] Because on a completely literal level,
+[   87.4 -    90.0] nothing in that sentence is about Japan.
+[   90.0 -    91.3] No, not a single thing.
+[   91.3 -    93.8] I mean, we are talking about.
+[   92.7 -    99.9] Roughly four and a half thousand kilometers between that village on the Kazakh steppe and Hiroshima. That's a massive distance
+[   99.9 -   101.3] Yeah, and temporarily
+[  101.3 -   108.1] 44 years live between that public meeting and the morning that the word originally acquired its meaning right 1945 to 1989
+[  108.3 -   112.0] Exactly, right, but what is so wild is that nobody on that textbook page?
+[  112.5 -   119.0] Literally nobody stops to explain the unit because they didn't have to right by 1989. Nobody needed explained a
+[  119.4 -   121.8] city had officially become a quantity and
+[  122.0 -   126.3] And a floral one at that which is just I mean grammatically and conceptually it's bizarre
+[  126.3 -   132.1] You don't say like thousands of London's or thousands of Chicago's right a city is a physical place
+[  132.4 -   137.4] But here the geographical anchor has been totally severed. So take us back
+[  137.7 -   142.2] You know to where that word first got its meaning. How does the city become a metric?
+[  142.2 -   148.6] Well to understand that we just have to look at the exact chronology of those nine days in August 1945
+[  148.6 -   154.3] And I'm just gonna lay these facts out strictly in order without commentary. So you can really see it. Let's hear it
+[  154.6 -   156.6] So on the 6th of August
+[  156.9 -   161.6] 1945 a uranium bomb falls on Hiroshima from a named aircraft, right?
+[  161.6 -   165.7] And that releases the energy of roughly 15,000 tons of TNT
+[  165.7 -   170.0] Okay, then on the 8th of August the Soviet Union declares war on Japan
+[  170.0 -   177.7] So two days later exactly then the very next day on the 9th of August Soviet forces enter Manchuria and a plutonium bomb
+[  177.8 -   184.8] Falls on Nagasaki. God, it's just so fast. It is and then on the 15th of August the emperor broadcasts surrender
+[  184.8 -   189.5] Wow, and finally on the 2nd of September the document is signed a board of ship
+[  189.5 -   193.4] It's just I am always struck by the intense compression
+[  193.7 -   199.0] that timeline. Oh totally. I mean for you listening, just think about a singular
+[  199.0 -   204.3] stationary event stretching into this standard movable unit used all over the
+[  204.3 -   209.2] world. But before we get into the whole unit aspect, there is a really crucial
+[  209.2 -   212.5] qualification we have to establish about those days. Right, the text makes this
+[  212.5 -   216.4] very plain and it's a vital context. Japanese cities were already burning
+[  216.4 -   220.0] before August. Yes, that is so important to remember. The difference
+[  220.0 -   223.1] was not that civilians had suddenly entered the war. Right, the threshold
+[  223.1 -   227.1] across in August wasn't the introduction of civilian suffering or
+[  227.1 -   230.7] urban destruction. That was already happening. The difference was the
+[  230.7 -   235.1] mechanism itself. Exactly. What's fascinating here is that the bomb gave
+[  235.1 -   239.7] Hiroshima this bizarre second life as a ruler. A ruler, like a measuring stick.
+[  239.7 -   244.6] Yeah, exactly. It became the baseline to track the exponential growth of weapons
+[  244.6 -   248.6] that followed. And that escalation was just staggering. It was. I mean
+[  248.6 -   252.3] consider this, just seven years later a thermonuclear test in the Pacific
+[  252.6 -   258.8] releases something like 700 times as much energy. 700 times. Yeah. In just
+[  258.9 -   264.1] seven years. Yeah. And then nine years after that, the largest device ever
+[  264.1 -   268.9] detonated releases about 50 megatons. 50 megatons. Which is the equivalent
+[  268.9 -   273.0] of more than 3000 of the first bomb. So what does this all mean? I mean, how
+[  273.0 -   278.2] do we even process that going from an initial baseline to roughly 700 times
+[  278.2 -   281.5] more powerful? And then suddenly you're at the equivalent of more than
+[  281.6 -   285.9] 3000 of the first bomb. You really can't process it. As weapons grew, their
+[  285.9 -   289.8] technical units just move further and further from ordinary experience. It
+[  289.8 -   294.5] makes me think of it's like trying to picture the distance between planets
+[  294.5 -   297.8] in inches. Oh, that's a great way to put it. Right. Because
+[  297.8 -   301.1] mathematically it's correct. You could measure the void of space in
+[  301.1 -   304.4] inches. Yeah. But functionally, your brain just short circuits.
+[  304.6 -   308.1] because an inch is for measuring a piece of paper, not the solar system.
+[  308.1 -   311.9] Exactly. And that is why this specific name works so well. I mean,
+[  311.9 -   314.4] kilotons and megatons are honest units.
+[  314.4 -   316.0] They're scientifically accurate.
+[  316.0 -   319.4] Right. But no one can picture a kiloton. What does that even look like?
+[  319.4 -   320.8] Just a giant abstraction.
+[  320.8 -   325.9] Exactly. But a city, a city has streets, it has schools, it has a name.
+[  325.9 -   329.3] Yeah. Everybody listening right now knows what it feels like to walk down a city street.
+[  329.3 -   333.1] Right. And that made the word useful whenever a speaker needed to turn a
+[  333.1 -   337.0] quantity of explosive energy into an imaginable loss.
+[  337.0 -   343.3] An imaginable loss. But okay, let me jump in here because if we are turning this into an imaginable
+[  343.3 -   348.7] loss, if we're trying to put a human count on this tragedy, how do we actually do the math?
+[  348.7 -   352.3] Well, you have to be incredibly careful here. We can only talk about the figures and the
+[  352.3 -   353.8] ranges that the text gives.
+[  353.8 -   355.2] Okay. So just the ranges.
+[  355.2 -   362.2] Right. So roughly 90 to 140,000 at Hiroshima and 60 to 80,000 at Nagasaki by the end of
+[  362.2 -   363.7] 1945. Okay.
+[  363.7 -   366.8] With further deaths for decades afterwards.
+[  366.8 -   370.7] But I need to jump in and just say plainly those are ranges not conversions.
+[  370.7 -   374.4] Because there is a massive interval problem here. Think about it.
+[  374.4 -   380.7] A death at the exact moment of the blast, a death by the end of 1945, and then a
+[  380.7 -   386.4] death years later from radiation, those all belong to a completely different total.
+[  386.4 -   389.6] They do. The interval chosen completely changes the answer.
+[  389.6 -   393.5] And I really want to emphasize this. So I am just going to explicitly state this
+[  393.5 -   397.5] qualification as its own sentence, because it's so central to this deep dive.
+[  397.5 -   398.2] Go for it.
+[  398.2 -   401.5] That makes the familiar comparison less precise than it sounds.
+[  401.5 -   406.5] because one Hiroshima may mean explosive yield, people killed immediately, people dead by the end
+[  406.5 -   411.3] of the year, or a city's entire destruction, so the multiplier can be announced to three
+[  411.3 -   415.3] significant figures, while the thing being multiplied varies by nearly half.
+[  415.3 -   418.9] Yeah, that captures it perfectly. The name basically supplies an image exactly where
+[  418.9 -   420.5] the number refuses to settle.
+[  420.5 -   424.1] It really is this wild illusion of precision. You hear someone say like,
+[  424.1 -   427.3] oh, this is 3.14 times the size, and it sounds so scientific.
+[  427.3 -   428.5] Highly scientific.
+[  428.5 -   433.5] But the base unit they're using to multiply with is fluctuating wildly depending on when
+[  433.5 -   435.2] they stop the clock on counting.
+[  435.2 -   440.1] Right. The math is entirely unstable, but the image of the city does all the work.
+[  440.7 -   447.0] So then how does this incredibly unstable unit become the universal currency for discussing
+[  447.0 -   449.1] these massive global arsenals?
+[  449.1 -   451.7] Well, it was a chain of announcements, essentially.
+[  451.7 -   456.6] One interpretation made the bomb a demonstration of American power to the Soviet Union.
+[  456.6 -   457.6] Right, a message.
+[  457.7 -   465.3] Exactly. And then a Soviet test followed in 1949, which then led to four decades of arsenals
+[  465.3 -   466.3] priced in cities.
+[  466.3 -   469.7] Arsenals priced in cities, that's such a heavy concept.
+[  469.7 -   474.7] It is. And if we connect this to the bigger picture, it really comes down to how history
+[  474.7 -   477.3] is framed. Remember those nine days in August we talked about?
+[  477.3 -   480.3] Yeah, the timeline for the 6th of August to the 2nd of September.
+[  480.3 -   484.4] Right. The closing distinction here is crucial, and I'll give it exactly as it is
+[  484.4 -   488.0] without trying to resolve it. The nine days in August do not move.
+[  488.0 -   488.6] Okay.
+[  488.6 -   490.9] What moves is the arrow drawn through them.
+[  490.9 -   492.7] Wait, unpack the arrow for a second.
+[  492.7 -   495.8] So think of it as three different historical trajectories.
+[  496.0 -   497.8] Arrow one is bomb to surrender.
+[  497.8 -   498.7] Okay, a direct line?
+[  498.7 -   501.2] Arrow two is Soviet entry to surrender.
+[  501.2 -   501.6] Great.
+[  501.6 -   504.3] And arrow three is bomb to Cold War.
+[  504.3 -   509.6] Ah, and the crazy thing is, those nine actual days don't change at all, right?
+[  509.6 -   513.1] Exactly. The dates, the events, they are static.
+[  513.1 -   515.7] But depending on which of those three arrows you draw,
+[  515.7 -   519.1] you completely rewrite what the unit actually means historically.
+[  519.1 -   522.1] Entirely. And we don't choose between them.
+[  522.1 -   525.6] It's just vital to see that the arrow moves while the days stay still.
+[  525.6 -   530.2] Which brings us all the way back around, full circle to the village of Karol
+[  530.2 -   532.7] on the Kazakh steppe in 1989.
+[  532.7 -   534.4] Yeah, back to the public meeting.
+[  534.4 -   536.8] Think about the journey of that one word.
+[  536.8 -   539.5] Hiroshima begins as a physical place.
+[  539.5 -   539.9] Right.
+[  539.9 -   541.9] Then it becomes an event.
+[  541.9 -   545.9] And then it becomes the unit by which another landscape describes what happened to it.
+[  545.9 -   548.2] It's incredible linguistic migration.
+[  548.2 -   550.9] And it works because everyone recognizes the city.
+[  550.9 -   551.6] Exactly.
+[  551.6 -   554.5] But at the same time, it remains totally unstable
+[  554.5 -   558.6] because recognition is not the same as agreement about what is being counted.
+[  558.6 -   560.2] That is exactly the paradox.
+[  560.2 -   562.3] We all recognize the streets and the name,
+[  562.3 -   565.5] but we completely disagree on the arithmetic underneath it.
+[  565.5 -   569.5] And, you know, for everyone listening, here is a final thought to Molober.
+[  570.4 -   574.7] Consider what other profound historical events we unconsciously use
+[  574.7 -   577.2] as casual shorthand in our daily language.
+[  577.2 -   578.2] Oh, that's interesting.
+[  578.2 -   581.5] Yeah, we use them to measure severity or scale,
+[  581.5 -   586.3] turning these deeply complex human realities into simple arithmetic
+[  586.3 -   589.0] without ever truly agreeing on what they mean.
+[  589.0 -   591.5] It really makes you pause and think about the words you're using.
+[  592.0 -   594.2] Thank you so much for joining us for this deep dive.
+[  594.2 -   594.9] It was a pleasure.
+[  594.9 -   595.9] We'll catch you on the next one.

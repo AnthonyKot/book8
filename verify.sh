@@ -26,7 +26,7 @@ fi
 
 # ---- 2. internal links -----------------------------------------------------
 linkfail=0
-for f in index.html about.html chapters/*.html; do
+for f in index.html contents.html about.html chapters/*.html; do
   [ -f "$f" ] || continue
   dir=$(dirname "$f")
   for ref in $(grep -oE '(href|src)="[^"]+"' "$f" | sed -E 's/^(href|src)="//; s/"$//'); do
@@ -48,16 +48,16 @@ done
 
 # ---- 3. chapter count sync -------------------------------------------------
 nfiles=$(ls chapters/*.html 2>/dev/null | grep -v -- "-receipts.html" | wc -l)
-nlinks=$(grep -oE 'href="chapters/[^"]+\.html"' index.html | sort -u | wc -l)
+nlinks=$(grep -oE 'href="chapters/[^"]+\.html"' contents.html | sort -u | wc -l)
 if [ "$nfiles" -ne "$nlinks" ]; then
-  err "count sync: $nfiles chapter file(s) but $nlinks chapter link(s) in index.html"
+  err "count sync: $nfiles chapter file(s) but $nlinks chapter link(s) in contents.html"
 else
   ok "count sync ($nfiles chapters, $nlinks index links)"
 fi
 
 # ---- 4. HTML nesting (open/close counts) -----------------------------------
 nestfail=0
-for f in index.html about.html chapters/*.html; do
+for f in index.html contents.html about.html chapters/*.html; do
   [ -f "$f" ] || continue
   for tag in div section table thead tbody tr ul ol blockquote main nav header footer; do
     o=$(grep -oE "<$tag( [^>]*)?>" "$f" | wc -l)

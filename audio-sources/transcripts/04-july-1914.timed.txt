@@ -1,0 +1,204 @@
+[    0.0 -     4.2] Picture this, you're standing directly on a street corner in Sarajevo.
+[    4.2 -     5.4] Right in the thick of it.
+[    5.4 -     6.0] Exactly.
+[    6.0 -     6.2] Okay.
+[    6.2 -     9.6] And the date is the 28th of June 1914.
+[   10.6 -    14.5] Suddenly, this car takes a wrong turn right in front of you.
+[   14.5 -    16.6] Just a completely mundane mistake.
+[   16.6 -    18.0] Right. It stops.
+[   18.0 -    20.4] The driver's frantically trying to shift gears.
+[   20.4 -    23.8] He reverses and then completely by accident it stops again.
+[   23.8 -    24.6] Stalls out.
+[   24.6 -    28.2] It stalls out right in front of a 19-year-old named Gavrilo Princip.
+[   29.0 -    31.6] And, well, he happens to be holding a pistol.
+[   31.6 -    36.2] It's one of those incredibly specific, almost eerie moments in history,
+[   36.2 -    38.3] you know, where time just seems to freeze.
+[   38.9 -    39.2] Yeah.
+[   39.2 -    41.7] That one accident, a driver getting confused,
+[   41.7 -    45.0] the car taking a wrong turn and stalling on that exact corner,
+[   45.6 -    48.2] it explains the murder that immediately followed.
+[   48.2 -    49.1] It really does.
+[   49.1 -    50.6] So welcome to today's deep dive.
+[   50.6 -    52.8] We're setting out on a bit of a mission today,
+[   52.8 -    55.4] tracing a sequence of events that you probably haven't,
+[   55.4 -    57.1] you know, connected in this way before.
+[   57.1 -    58.7] Most people haven't, honestly.
+[   58.7 -    60.9] Right, because we're not going to use any of the usual cliches.
+[   60.9 -    64.2] We're not calling this a spark or a powder keg or a domino, none of that.
+[   64.2 -    64.7] Thank you.
+[   64.7 -    65.1] Yeah.
+[   65.1 -    70.3] Instead, we're exploring how that single-stall car connects directly to you,
+[   70.3 -    74.8] specifically to the very modern reality of you standing in an airport queue
+[   75.4 -    77.4] shuffling forward with your shoes off.
+[   77.4 -    79.4] It sounds like a massive leap, I know.
+[   79.4 -    83.1] I mean, going from a teenage assassin in 1914
+[   83.1 -    86.0] to you holding a little booklet at border control today.
+[   86.0 -    87.2] It does sound crazy.
+[   87.2 -    92.2] But the chain of events connecting those two things is, it's a fascinating chain.
+[   92.2 -    96.2] It fundamentally transformed how governments view human faces.
+[   96.2 -    97.0] Totally.
+[   97.0 -   101.6] So to understand how we got from that street corner to modern airport security,
+[  101.6 -   105.4] we have to look closely at the immediate facts leading up to that exact moment,
+[  105.4 -   106.6] strictly in order.
+[  106.6 -   110.3] Right, because the context of that morning is full of these strange contradictions.
+[  110.3 -   113.4] Yeah, for instance, Gavrilo Princip and the other conspirators,
+[  113.4 -   117.0] they were actually subjects of the empire whose heir they meant to kill.
+[  117.0 -   120.6] Which means they didn't have to break into the country, they were already inside?
+[  120.6 -   121.4] Exactly.
+[  121.4 -   124.3] But the weapons they were carrying, those were not.
+[  124.3 -   127.8] The pistols and the bombs they used, they came from Serbian military stocks.
+[  127.8 -   130.2] Which is a huge logistical problem for them.
+[  130.2 -   134.4] Right, because you can't just walk across a bridge with military explosives.
+[  134.4 -   137.6] Those weapons had to be smuggled over the Drana River.
+[  138.1 -   145.8] And they did it at night through this incredibly shadowy underground channel. Yeah, and they were entirely dependent on the help of
+[  146.2 -   153.8] sympathetic Serbian frontier officers officers who were you know, willing to look the other way or even actively facilitate the crossing for them
+[  153.8 -   156.2] Right, but here is the detail that
+[  157.2 -   160.8] Absolutely wild to me the weapons had to be hidden obviously
+[  161.3 -   164.9] But the young men carrying them the actual conspirators
+[  165.8 -   170.3] No, and when you hear about like weapons being smuggled across a tense border at night
+[  170.4 -   176.8] You immediately assume that people carrying them were terrified of a passport check, right dodging guards hiding from searchlights
+[  177.0 -   183.9] Exactly, but they didn't have to evade a passport check for the simple reason that the border asked arriving travelers for no papers whatsoever
+[  183.9 -   187.2] None they just crossed. I mean I have to ask you about this because
+[  187.9 -   194.1] Looking at it from our perspective today where you can't even get into an international terminal without showing a government ID
+[  194.1 -   195.7] Three different times
+[  195.7 -   200.1] Was this just a massive security failure? It really feels like it should be right?
+[  200.1 -   206.2] Yeah, like some gaping hole and an otherwise modern border. It's natural to assume. It was a catastrophic oversight
+[  207.1 -   210.0] But we have to sort of shed our modern assumptions here
+[  210.4 -   215.8] It wasn't a gaping hole. It was actually closer to the European norm. Wait, really the norm
+[  215.8 -   221.7] Yeah across much of Western and Central Europe customs officers were there, but they were inspecting goods
+[  221.8 -   226.6] They read cargo, but ordinary travelers they crossed without passports
+[  226.9 -   234.5] So the frontier was basically just looking at crates of wool or grain not the person driving the car exactly the frontier red cargo
+[  234.5 -   238.7] It did not read people that is such a wild concept to wrap your head around
+[  239.0 -   244.5] The idea that a government just didn't care to officially identify the humans moving across its lines
+[  245.1 -   248.6] Were there any places that didn't operate like this? Oh, yeah
+[  248.6 -   251.8] There were conspicuous exceptions and they stood out sharply
+[  252.6 -   259.8] Primarily the Russian and Ottoman empires. Okay, so they were stricter much stricter in those empires papers were needed
+[  259.8 -   263.7] Just to leave and actually in the Russian Empire. It went even further
+[  263.7 -   268.1] You needed papers to move about inside the borders Wow, okay
+[  268.1 -   273.2] So you have these distinct approaches but across most of the continent including the route our conspirators took
+[  273.5 -   278.9] Human movement was pretty much unmonitored right they crossed with weapons hidden in their bags and
+[  279.6 -   281.7] Nobody asked who they were nobody at all
+[  281.9 -   288.7] But of course the shooting that followed that specific crossing set off a completely different sequence of events a much more
+[  288.8 -   291.6] Devastating kind of crossing. Yeah from the crossing of a border
+[  291.6 -   298.2] We moved to the crossing of armies right and what's terrifying about the sequence among Europe's great powers is how fast it
+[  298.2 -   303.6] Happened we're talking about a timeline of exactly 38 days 38 days just a month and a week
+[  303.7 -   309.8] Yes, and it unfolded with this rigid precision. Let's look at the strictly ordered sequence here
+[  310.2 -   314.6] First on the 5th and 6th of July you have Berlin's assurance to Vienna
+[  314.6 -   318.8] Okay, so about a week after the shooting the first major diplomatic pieces in play
+[  319.1 -   325.0] Correct, then it stews for a bit until the 23rd of July. That's when Austria Hungary
+[  325.2 -   330.4] Sends an ultimatum to Serbia and they give him exactly 48 hours a 48 hour clock
+[  330.4 -   335.3] I mean putting a ticking clock on a crisis of that magnitude is just forcing a breakdown
+[  335.3 -   342.0] It is and the thing is Serbia actually accepted most of its demands. Oh, really? Yeah, they accepted most of them and qualified the rest
+[  342.6 -   348.0] But it wasn't enough so on the 28th of July Austria Hungary issues its declaration of war
+[  348.0 -   354.2] Which is exactly one month after the car stalled on the street corner exactly and from that declaration the sequence that
+[  354.2 -   358.9] Immediately followed was a cascade Russia issues its mobilization orders, right?
+[  359.0 -   364.8] Which triggers Germany's declarations on Russia and France that is followed by the crossing into Belgium
+[  364.8 -   369.0] And then Britain's decoration on Germany when you lay it out like that
+[  369.0 -   376.8] It feels less like human decision-making and more like I don't know an automated machine getting switched on it really does
+[  376.8 -   380.1] I mean think about the gravity of that timeline for a second in exactly
+[  380.6 -   388.3] 38 days a murder had become a war among Europe's great powers and that war because of its sheer scale
+[  388.3 -   393.3] It fundamentally changed the relationship between the state and the individual which brings us back to the border, right?
+[  393.3 -   396.2] Yeah, if the border previously only cared about cargo
+[  396.5 -   403.7] What was the very first lasting change because honestly my guess would be that they just started doing better searches for bombs
+[  403.7 -   407.5] It makes sense you'd think that but no the primary change was much deeper
+[  407.5 -   413.9] The change was that ordinary travelers became security subjects security subjects. That's it. That's a chilling phrase
+[  413.9 -   420.8] It implies that just by existing and moving you're a potential threat precisely and the speed at which this happened is staggering
+[  421.7 -   428.5] Britain introduced the aliens restriction act right they carried it through every single stage and give it royal ascent on the 5th of August
+[  429.0 -   431.0] 1914 wait the 5th of August
+[  431.3 -   435.2] But Britain's declaration was at the very end of that 38 day sequence
+[  435.5 -   442.7] So the 5th of August would be the first full day of its war Wow day one day one under this act
+[  442.7 -   448.0] They took sweeping power over foreigners entry departure registration and residents
+[  448.0 -   451.0] They completely rewrote the philosophy of the border overnight
+[  451.0 -   457.2] They did and that directly leads to a fascinating document issued under these new wartime rules in
+[  457.4 -   463.8] 1915 this is the one that added things of Victorian passport never had right exactly a Victorian passport was just a piece of paper
+[  463.8 -   469.3] But this 1915 document added two very specific things first a photograph and
+[  469.8 -   475.8] Second a physical description arranged as a table a table like a spreadsheet for a human face
+[  475.8 -   482.4] Yes, it had categories for the forehead the eyes the nose and the shape of face forehead eyes nose shape of face
+[  482.4 -   487.4] That is so chillingly modern to me. You're turning a human being into a set of readable fields
+[  487.4 -   493.6] It's a complete administrative shift. You're no longer just a person traveling. You're a data point being processed
+[  493.8 -   497.0] You are but and this is incredibly important
+[  497.0 -   500.9] We have to be very careful with how we view cause and effect here
+[  501.1 -   507.3] The assassin's route did not cause the passport system and a missed inspection did not cause the war
+[  507.7 -   509.9] That is a really vital distinction
+[  509.9 -   515.7] So the conspirators walking across without papers didn't directly trigger the invention of the passport
+[  515.7 -   522.3] No, not at all the right merely shows what movement across much of Europe looked like at the exact moment the war began
+[  522.3 -   529.3] It's a snapshot not the cause and there's another crucial point we need to establish what that the war did not invent
+[  529.3 -   535.4] The identity document since safe conducts are medieval and neighboring states had checked papers for a century
+[  535.8 -   538.7] Okay, so the piece of paper itself wasn't the new invention.
+[  538.7 -   541.4] Right. What actually changed was the paper's purpose.
+[  541.4 -   542.3] How so?
+[  542.3 -   545.1] Well, the old document, like a Victorian passport,
+[  545.1 -   549.1] was basically an old letter asking a foreign government to extend courtesy.
+[  549.1 -   549.9] It was polite.
+[  549.9 -   551.5] A letter of introduction, almost.
+[  551.5 -   554.8] Exactly. But the new document made no request.
+[  554.8 -   556.3] It just described.
+[  556.3 -   557.8] It just described, wow.
+[  558.6 -   561.7] And that completely changes the power dynamic, doesn't it?
+[  561.7 -   564.0] Because if a document is just a polite letter,
+[  564.1 -   566.3] someone can just say no or ignore it.
+[  566.3 -   570.5] But once you describe someone, once you lock their forehead, their eyes, their nose
+[  571.2 -   575.9] into a formal table, that description can be used differently.
+[  575.9 -   578.6] Yes, because a description could be compared, it could be filed,
+[  579.1 -   581.8] and most importantly, it could be refused.
+[  581.8 -   585.8] The power to refuse entry based on an administrative table,
+[  585.8 -   588.4] that really is the birth of the modern border checkpoint.
+[  588.4 -   589.5] It absolutely is.
+[  589.5 -   591.5] But you know, this was a wartime measure.
+[  591.5 -   593.3] And like a lot of wartime measures,
+[  593.3 -   595.4] it didn't just go away when the fighting stopped.
+[  595.4 -   597.2] No, it became completely entrenched.
+[  597.2 -   600.8] Let's pull forward to the aftermath of the war, to October 1920.
+[  600.8 -   601.2] Okay.
+[  601.2 -   603.7] The League of Nations holds a conference in Paris,
+[  603.7 -   606.7] specifically on passports and frontier formalities.
+[  607.4 -   610.9] So the war is over, and now they're trying to standardize this new reality.
+[  610.9 -   611.5] Right.
+[  611.5 -   615.1] And at this conference, they agreed on the exact shape we know today.
+[  615.1 -   618.4] They decided that a photograph would go inside the front cover,
+[  618.4 -   622.1] and that the remaining pages would be left blank for other country stamps.
+[  622.1 -   623.1] That is wild.
+[  623.6 -   629.5] The literal physical booklet sitting in your desk drawer right now,
+[  629.5 -   631.9] the one you panic about losing before a flight,
+[  631.9 -   636.2] the shape of it was hammered out by bureaucrats in Paris in 1920.
+[  636.2 -   639.1] It's the same fundamental infrastructure.
+[  639.1 -   643.4] And just two years later, that same body had to issue something even more sobering
+[  643.4 -   644.9] than Nansen Passport.
+[  644.9 -   645.5] Right.
+[  645.5 -   647.0] And for listeners who might not be familiar,
+[  647.0 -   650.5] the Nansen Passport was something really unprecedented.
+[  650.5 -   655.1] It was necessary because statelessness had become common enough to need its own stationery.
+[  655.1 -   655.8] Exactly.
+[  655.8 -   658.4] Empires had collapsed, millions of people were displaced.
+[  658.4 -   662.7] These documents were specifically for people whose state would no longer describe them.
+[  662.7 -   664.7] That is just a heartbreaking concept.
+[  664.7 -   668.1] If your state doesn't describe you, you don't exist in this new system.
+[  668.1 -   670.7] You have no right to move because you can't be put into that table.
+[  670.9 -   675.7] The administrative boxes they just designed in Paris couldn't hold the reality of the post-war
+[  675.7 -   681.1] world, so they had to invent a new piece of paper just to give these people an identity.
+[  681.1 -   686.5] Wow. So, bringing this all together for you, the listener, think back to that street corner in
+[  686.5 -   692.1] 1914. The conspirators crossed the border with weapons hidden in their bags and nobody asked who
+[  692.1 -   698.4] they were. The frontier only read cargo. Right. But just a year later, a traveler is carrying
+[  698.4 -   704.5] a photo and a table describing their face. And today, when you're standing in that airport queue
+[  704.5 -   711.0] with your shoes off, holding your passport open to the picture page, it is that exact same 1915
+[  711.0 -   715.3] table still being read. They're still checking your forehead, your eyes, your nose. The war
+[  715.3 -   719.9] completely changed what a passport was for. It's a massive shift in how we manage human life,
+[  719.9 -   725.0] but before we close today, there's one final really provocative thought about systems taking
+[  725.0 -   729.4] over that we should touch on. Oh, what's that? Well, we talked about how that 38-day sequence
+[  729.4 -   733.9] felt like a machine getting switched on. There was another machine in this story that fundamentally
+[  733.9 -   739.0] altered the world. Another machine? What was it? Railway timetables. Railway timetables. You mean
+[  739.0 -   744.1] literally the schedules for the trains? Yes. They helped turn mobilization into a
+[  744.1 -   748.4] sequence that could not easily be paused. Oh, I see. Because moving millions of men
+[  748.4 -   753.7] in artillery, it requires a logistic schedule that is so tight you can't just delay a
+[  753.7 -   758.7] train by an hour to negotiate a peace deal. Exactly. Once those timetables were activated,
+[  758.7 -   761.8] the sequence was locked in. It was out of the diplomat's hands.
+[  761.8 -   768.7] That is a really bleak, haunting, final image. You set the timetable, the trains start moving,
+[  768.7 -   774.0] and it's unstoppable. And those trains ran for three more years. They did. Hauling men
+[  774.0 -   778.9] and hauling shells ahead of grain, pushing military cargo over feeding people. Which
+[  778.9 -   783.7] had a final devastating consequence. Right. Because the trains kept running until the queue
+[  783.7 -   788.1] that really mattered wasn't at a border at all. It was in Petrograd. And it was for bread.
+[  788.1 -   792.0] It really shows you what happens when administrative systems and schedules,
+[  792.0 -   795.1] once they're set in motion, they change human life forever.
+[  795.1 -   798.2] They really do. Something to mull over the next time you find yourself
+[  798.2 -   801.5] standing in an airport line, waiting to be read by the frontier.
+[  801.5 -   803.1] Thanks for joining us on this deep dive.

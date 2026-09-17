@@ -1,0 +1,149 @@
+[    0.0 -     3.0] I want you to think about your alarm clock for a second.
+[    3.0 -     6.0] Like, when it goes off on a Monday morning,
+[    6.0 -     9.6] you probably don't view it as this historical artifact.
+[    9.6 -    10.4] No, definitely not.
+[   10.4 -    10.9] Right.
+[   10.9 -    13.7] Usually when you think about monumental historical events,
+[   13.7 -    16.9] we picture lines on a map shifting
+[   16.9 -    20.8] or massive structural changes that feel totally disconnected
+[   20.8 -    22.4] from our day-to-day routine.
+[   22.4 -    25.7] You really rarely think about your weekend in that context.
+[   25.7 -    26.8] Yeah, so true.
+[   26.8 -    28.8] But today, we're going on a deep dive
+[   28.8 -    31.6] that's going to lead to a pretty surprising aha moment.
+[   31.6 -    35.1] I've been going through a massive stack of sources for today,
+[   35.1 -    39.1] historical archives, original draft texts from 1919.
+[   39.1 -    40.8] And our mission today is to explore
+[   40.8 -    43.4] how a sprawling international agreement aimed
+[   43.4 -    47.2] at managing a post-war world unexpectedly drew the boundary
+[   47.2 -    49.9] between our working hours and the rest of our lives.
+[   49.9 -    52.0] This is a remarkable connection to make, honestly.
+[   52.0 -    54.4] Largely because we take that boundary completely for granted.
+[   54.4 -    55.6] You clock in, you clock out.
+[   55.6 -    57.1] You expect a certain rhythm to the week.
+[   57.1 -    57.7] Exactly.
+[   57.7 -    60.5] But that rhythm, it wasn't just a natural evolution.
+[   60.5 -    64.0] It was forged in a very specific, incredibly tense
+[   64.0 -    65.1] furnace of history.
+[   65.1 -    67.6] So to understand that furnace, we really
+[   67.6 -    69.6] need to set the scene.
+[   69.6 -    71.3] I want to take you, the listener,
+[   71.3 -    75.6] to a very specific day, the 28th of June, 1919.
+[   75.6 -    77.8] This is exactly five years to the day
+[   77.8 -    80.8] after the killings at Sarajevo.
+[   80.8 -    82.7] Just imagine the setting.
+[   83.0 -    89.6] Two German ministers are walking into the Hall of Mirrors the visual of that alone is just heavy with consequence
+[   89.6 -    94.9] And for these two ministers walking down that long hall the power dynamic is absolute
+[   95.1 -    99.6] Because they were walking into that room for one reason to sign a document
+[   99.6 -   104.8] They'd been handed six weeks earlier, which just sounds agonizing right and for those entire six weeks
+[  104.8 -   109.2] They had only been allowed to answer this document in writing wait only in writing. Yes
+[  109.2 -   111.2] There was no negotiation table just
+[  111.4 -   115.0] Written responses and now in this day in June. They were walking in to put their names on it
+[  115.0 -   117.4] That is the ultimate expression of dictated terms
+[  117.6 -   119.7] But before we even look at the document
+[  119.7 -   125.8] We really have to look at the room itself because we need to establish who is actually in this room deciding the fate of the world and
+[  126.6 -   129.6] Who is locked out? Well if we trace the timeline back
+[  130.1 -   137.0] The conference opened on the 18th of January 1919 and when it started there were around 30 delegations
+[  137.0 -   142.5] But the guest list didn't stay that large it feels like an exclusive VIP room where they just keep tightening the rope
+[  142.5 -   148.8] Yeah, that's exactly it the decisions very quickly narrowed down from those 30 delegations to a council of 10
+[  148.8 -   151.7] Okay, and then it narrowed again down to a council of four
+[  152.1 -   155.7] That was the United States, Britain, France, and Italy.
+[  155.7 -   157.3] And it gets even smaller than that, right?
+[  157.3 -   158.3] It does.
+[  158.3 -   163.1] Just three men briefly held the center after the Italian premier actually walked out over
+[  163.1 -   164.1] Femir.
+[  164.1 -   165.1] Right.
+[  165.1 -   166.1] Overfume.
+[  166.1 -   167.1] So just three men making decisions for the globe.
+[  167.1 -   172.3] While the populations of vast territories waited, the contrast of who is excluded is
+[  172.3 -   174.3] just startling.
+[  174.3 -   178.5] For instance, China is there asking for the return of Shandong, and they're refused.
+[  178.5 -   183.8] And Japan is there too, asking for just one single sentence about the equality of races,
+[  183.8 -   184.8] and they are refused.
+[  184.8 -   187.3] And it's not just nations with specific demands.
+[  187.3 -   191.7] The sources point out that there are men from places nobody invited, waiting in hotels to
+[  191.7 -   192.7] be seen.
+[  192.7 -   196.6] Imagine the indignity, waiting in hotels just to be seen.
+[  196.6 -   201.4] And then hovering over all of this is the fact that Soviet Russia isn't there at all.
+[  201.4 -   207.1] So we have this incredibly narrow funnel of power, but what comes out of it is massive.
+[  207.1 -   208.1] The document is staggering.
+[  208.1 -   211.2] I mean, we're talking 436 pages.
+[  211.2 -   212.2] It's massive.
+[  212.2 -   215.9] It contains 433 articles across 15 parts.
+[  215.9 -   219.6] And what it is usually remembered for are those familiar sweeping changes.
+[  219.6 -   224.3] You know, redrawn territory, limits on Germany's army, responsibility assigned for wartime
+[  224.3 -   225.3] loss and damage.
+[  225.3 -   226.3] Yeah.
+[  226.3 -   230.5] And a bill whose total would be fixed later, plus mandates for Germany's colonies
+[  230.5 -   232.7] and the Arab provinces of the Ottoman Empire.
+[  232.9 -   234.8] and a league designed to keep the peace.
+[  234.8 -   236.3] Those are the heavy hitters.
+[  236.3 -   239.4] But here is where this deep dive takes a massive turn.
+[  239.4 -   242.6] If you flip to the 13th part, its subject is work.
+[  242.6 -   245.9] It's a jarring shift, the focus abruptly shifts to work.
+[  245.9 -   248.7] And the text actually carries a profound warning.
+[  248.7 -   251.1] It warns that conditions of labor can produce unrest
+[  251.1 -   253.4] great enough to imperil the peace of the world.
+[  253.4 -   257.1] It says universal peace can last only if it rests on social justice.
+[  257.1 -   259.2] Which forces a radical redefinition.
+[  259.8 -   261.7] Peace isn't just a line on a map.
+[  261.7 -   265.4] It depends on what happens inside a factory and how long a person stays there.
+[  265.4 -   267.2] I have to push back here though.
+[  267.2 -   268.3] Why the sudden pivot?
+[  269.0 -   272.2] How do world leaders drawing maps suddenly decide
+[  272.2 -   274.8] they need to care deeply about factory workers hours?
+[  274.8 -   277.4] Were they just suddenly overcome with compassion?
+[  277.4 -   279.2] No, it wasn't benevolence at all.
+[  279.2 -   281.0] It was absolute panic.
+[  281.0 -   283.8] To understand it, you have to look at the year around it.
+[  283.8 -   286.3] 1919 was a year of intense upheaval.
+[  286.3 -   287.9] You had the Berlin Risings.
+[  287.9 -   288.2] Right.
+[  288.2 -   290.0] You had the Hungarian Soviet Republic.
+[  290.0 -   291.8] You had the Italian Red two years.
+[  291.8 -   293.7] The ground is basically shaking beneath them.
+[  293.7 -   294.2] Exactly.
+[  294.2 -   296.4] And behind all this were massive strikes.
+[  296.4 -   299.7] Workers actually won the reduction of the working day to eight hours.
+[  300.0 -   304.2] at equal pay across the principal European states almost simultaneously.
+[  304.2 -   306.1] Oh wow, so they forced the issue on the ground.
+[  306.1 -   311.0] Yes. There was this deep fear that events in Russia might be repeated in their own countries.
+[  311.0 -   314.0] So the working day was not a gift from the conference.
+[  314.0 -   319.0] It was a highly contested battle over whether the social order surviving the war could even survive the peace.
+[  319.0 -   324.0] Precisely. They were terrified that their entire social order was about to collapse.
+[  324.0 -   328.0] So knowing why they were terrified explains what they built into the treaty.
+[  328.0 -   331.0] Yeah, they wrote 41 articles creating a labor organization.
+[  331.0 -   332.0] And how did that work?
+[  332.0 -   334.0] Well, they created a very different kind of table.
+[  334.0 -   338.0] It seated governments, employers, and trade unions together.
+[  338.0 -   344.0] Wait, bosses, union leaders, and government officials all at the same table in 1919?
+[  344.0 -   353.0] Yes. And at its first convention at Washington in the autumn of 1919, they set eight hours a day and 48 a week for industry.
+[  353.0 -   356.0] I really need to emphasize this point for everyone listening.
+[  356.0 -   359.0] The 14th part did not give anyone the eight hour day.
+[  359.0 -   362.0] The strikes of 1918 and 1919 won the hours.
+[  362.0 -   370.0] And what the treaty made was machinery for turning a concession forced in a few European capitals into a numbered international standard.
+[  370.0 -   372.0] That distinction is just crucial.
+[  372.0 -   375.0] The strikes won the hours. The treaty made them a portable rule.
+[  375.0 -   378.0] So they built a machine to standardize this globally.
+[  378.0 -   384.0] And what's wild is how resilient this specific machinery proved to be, especially when you look at what came apart.
+[  384.3 -   388.7] Right. A lot of the agreement collapsed. The United States Senate refusing consent, for instance.
+[  388.7 -   391.5] Which meant the United States never joining the League.
+[  391.5 -   394.1] Exactly. And the League expiring entirely.
+[  394.1 -   399.1] But the labor body lodged in the 13th part survived all of that.
+[  399.1 -   402.9] It really did. It moved into the United Nations in 1926.
+[  402.9 -   409.0] It even received the Nobel Peace Prize in 1969. And it is still writing standards in Geneva.
+[  409.0 -   411.1] That is just incredible.
+[  411.1 -   416.8] The institution designed to manage factory hours outlived the political structure built around it.
+[  416.8 -   419.6] Which brings it all directly back to you, the listener.
+[  419.6 -   421.8] Because this is visible in an ordinary week.
+[  421.8 -   425.6] Yeah, somewhere on your payslip, a number says how many hours count as the whole job.
+[  425.6 -   427.5] With the weekend on the far side.
+[  427.5 -   433.1] And the date this was first written into an international agreement was in Washington in November 1919.
+[  433.1 -   437.5] So the next time you clock out for the day, consider that the boundary between your working day
+[  437.5 -   440.6] and the rest of your life wasn't just handed to you by history.
+[  440.6 -   444.4] It was forced by strikes and forged into a standard by leaders.
+[  444.4 -   447.8] Terrified that their entire social order was about to collapse.
+[  447.8 -   450.7] What a thought to carry into your next weekend.
+[  450.7 -   453.1] Thank you for joining us on this deep dive.
+[  453.1 -   455.5] Keep questioning the everyday structures around you.
+[  455.5 -   458.7] Because you never know what history is hiding on your payslip.

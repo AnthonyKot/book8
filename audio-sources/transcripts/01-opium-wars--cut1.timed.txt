@@ -1,0 +1,552 @@
+[    0.0 -     5.6] I want you to picture a highly specific incredibly dramatic scene.
+[    5.6 -    11.4] It is the summer of 1839 and we are standing on the beach at human on the Guangdong coast of China.
+[   11.4 -    13.3] Oh, setting the scene right in the thick of it.
+[   13.3 -    18.6] Exactly. The air is thick, the heat is just oppressive and right in front of us,
+[   18.6 -    24.8] Chinese officials under the command of Lin Zexu are systematically destroying opium.
+[   24.8 -    27.5] And this isn't just, you know, a minor confiscation.
+[   27.5 -    28.2] No, not at all.
+[   28.2 -    30.8] They are destroying more than 20,000 chests of the stuff,
+[   30.8 -    33.9] which had been surrendered by British and American merchants.
+[   33.9 -    39.4] I mean, it is a staggering amount of narcotics literally going up in smoke and washing into the sea.
+[   39.4 -    43.4] Yeah, and that singular moment on the beach, it's really the spark.
+[   43.4 -    46.7] Because within a year, British warships will be sitting off that very coast.
+[   46.7 -    47.1] Right.
+[   47.1 -    51.2] And by 1842, the First Opium War ends with the Treaty of Nanking.
+[   51.2 -    55.0] Hong Kong Island is ceded, five treaty ports are forced open,
+[   55.0 -    57.8] and the global map is just permanently rewritten.
+[   57.8 -    62.0] It's usually taught as the straightforward story of imperialism and military might.
+[   62.0 -    66.5] Which it is, right. The Treaty of Nanking absolutely rewrites global power dynamics.
+[   67.0 -    70.6] But to understand why those British warships arrived in the first place,
+[   70.6 -    72.8] you don't actually look at military strategies.
+[   72.8 -    73.9] No, you really don't.
+[   73.9 -    77.2] You look at a simple 18th century household grocery bill.
+[   77.9 -    83.1] Today's deep dive is based on a fascinating essay that compiles historical accounts
+[   83.1 -    86.8] and global textbook excerpts about this exact era.
+[   87.4 -    91.0] But our mission today isn't to recount the naval battles.
+[   91.0 -    92.6] Right, we're digging into the economic.
+[   92.6 -    97.4] Exactly. We are going to solve a much quieter foundational mystery behind all that smoke on the
+[   97.4 -   102.5] beach. We are going to answer the question, what was all that opium actually buying?
+[  102.5 -   106.1] Okay, let's unpack this, because to find the root cause of the war,
+[  106.1 -   110.9] you really have to look at the British economy's absolute obsession with a single leaf.
+[  110.9 -   112.2] Yeah, the tea leaf.
+[  112.2 -   114.3] And to understand the sheer scale of that obsession,
+[  114.3 -   117.0] we have to rewind to the year 1784.
+[  117.0 -   121.8] The British parliament makes this fiscal decision that completely accidentally
+[  121.8 -   123.3] traps their entire economy.
+[  123.3 -   124.5] The commutation act.
+[  124.5 -   125.7] Right, the commutation act.
+[  126.2 -   131.9] Which cuts the import duty on tea from a staggering 119% down to just 12.5%.
+[  132.6 -   136.1] Which, you know, on paper sounds like terrible news for the government's tax revenue.
+[  136.1 -   137.9] You're slashing a tax by over 100%.
+[  138.5 -   140.2] It sounds disastrous for them.
+[  140.2 -   142.4] But it actually does the exact opposite, doesn't it?
+[  142.4 -   146.3] Because at 119% tea was this huge luxury item.
+[  146.3 -   148.2] People were buying it on the black market.
+[  148.2 -   150.6] Smugglers were making an absolute fortune.
+[  150.6 -   154.3] That is the exact macroeconomic trap they stepped into.
+[  154.3 -   159.8] The moment the tax drops to 12.5%, legal tea becomes cheaper than smuggled tea.
+[  160.4 -   163.0] Wow, so the smugglers are just out of business.
+[  163.0 -   165.8] The black market collapses virtually overnight.
+[  165.8 -   169.9] Legal imports skyrocket to levels that no one anticipated.
+[  169.9 -   173.4] I mean, tea goes from being a rare treat for the aristocracy
+[  173.4 -   175.4] to a daily staple for the working class.
+[  175.4 -   176.9] It's everywhere.
+[  176.9 -   181.6] Right, and because the volume of tea coming in is now so astronomically high,
+[  181.6 -   187.5] that tiny 12.5% tax starts bringing in vastly more money than the old luxury tax ever did.
+[  187.5 -   192.2] So the British Treasury suddenly realizes they are funding the empire-like,
+[  192.2 -   197.1] paying for the Royal Navy, keeping the government running largely on the back of tea taxes.
+[  197.1 -   197.8] Exactly.
+[  197.8 -   201.6] And the East India Company, which is the massive corporation driving this trade,
+[  202.2 -   207.7] becomes completely structurally dependent on the business of moving those leaves.
+[  207.7 -   210.8] And here is the geopolitical friction that sparks everything.
+[  211.8 -   215.5] All of this tea came from exactly one place, China.
+[  216.2 -   219.3] And the Qing dynasty had very strict terms for trade.
+[  219.3 -   221.5] They were entirely self-sufficient.
+[  221.5 -   226.8] They looked at British manufactured goods, their wool, their mechanical gadgets,
+[  226.8 -   228.3] and saw absolutely no use for them.
+[  228.3 -   229.3] You didn't want any of it?
+[  229.3 -   229.9] None of it.
+[  229.9 -   232.6] If Britain wanted Chinese tea, silk, and porcelain,
+[  233.2 -   237.4] China only accepted one specific currency in return, and that was silver.
+[  237.4 -   240.2] The mechanics of that are just brutal for Britain,
+[  240.2 -   243.8] because they are literally emptying their national silver reserves,
+[  243.8 -   246.2] putting it on boats and sending it to China,
+[  246.2 -   248.2] just to keep the tea cups full back home.
+[  248.2 -   250.6] Yeah, it's an unsustainable hemorrhaging of wealth.
+[  250.6 -   253.1] They are going broke buying a hot beverage.
+[  253.1 -   256.4] Right, and what's fascinating here is how the East India Company
+[  256.5 -   259.7] engineered a highly illegal solution to this silver drain.
+[  260.4 -   264.2] They realized they needed a commodity they could sell to the Chinese populace
+[  264.2 -   266.3] to suck that silver back out of the country.
+[  266.3 -   268.2] And that commodity was opium?
+[  268.2 -   268.7] Exactly.
+[  268.7 -   269.1] Yeah.
+[  269.1 -   272.4] The company held a strict monopoly on growing the poppy
+[  272.4 -   275.0] in the regions of Bengal and Bihar in India.
+[  275.0 -   276.9] They would cultivate the opium there,
+[  276.9 -   279.8] and then, in direct defiance of Qing dynasty bands,
+[  279.8 -   282.5] funnel it into China through smugglers.
+[  282.5 -   285.4] I mean, it is essentially an international money laundering scheme,
+[  285.4 -   288.0] but operated by a global empire,
+[  288.0 -   291.0] dedicated entirely to funding a national caffeine habit.
+[  291.6 -   293.2] The scale of it is mind-blowing.
+[  293.2 -   294.1] It really is.
+[  294.1 -   297.5] So the opium being burned on the beach at human by Lin Zexu,
+[  297.5 -   300.7] that wasn't just a random illegal shipment of drugs.
+[  300.7 -   302.6] It was the other half of the tea receipt.
+[  302.6 -   304.6] It was literally the currency.
+[  304.6 -   308.2] It functioned as a perfectly closed, ruthless commercial circuit.
+[  308.7 -   310.6] Opium went from India into China.
+[  310.6 -   311.0] Yeah.
+[  311.0 -   314.4] The silver from those illicit sales was used by the East India Company
+[  314.4 -   317.2] to buy Chinese tea, silk, and porcelain.
+[  317.2 -   319.1] And then those goods were shipped back to Britain.
+[  319.1 -   320.6] That is the crucial triangle.
+[  320.6 -   321.0] Yeah.
+[  321.0 -   326.2] Force, drug, and cargo, all inextricably linked to balance the books.
+[  326.2 -   329.3] So Britain just fought a war to keep their ports open
+[  329.3 -   331.0] and protect this revenue stream.
+[  331.0 -   333.0] The Treaty of Nanking gets signed.
+[  333.0 -   334.2] But reading through our sources,
+[  334.2 -   338.4] you realize that military might doesn't actually guarantee agricultural control?
+[  338.4 -   339.3] No, it doesn't.
+[  339.3 -   341.2] Britain was still terrified.
+[  341.2 -   344.2] They were still entirely dependent on a foreign power
+[  344.2 -   346.0] for their most prized commodity.
+[  346.0 -   349.0] They realized a naval bombardment can force a port open,
+[  349.0 -   351.0] but it cannot make a plant grow somewhere else.
+[  351.0 -   352.3] They needed their own soil.
+[  352.9 -   355.7] And that desperate need for agricultural independence shifts
+[  355.7 -   359.7] the entire focus of the empire to the Himalayas and to India.
+[  359.7 -   361.0] And this is where we have to address
+[  361.0 -   362.7] how the timeline actually played out,
+[  362.7 -   365.1] because the Indian half of the tea story had begun
+[  365.1 -   367.5] entirely independently of the war in China.
+[  367.5 -   368.2] Right.
+[  368.2 -   371.8] Back in 1823, an explorer named Robert Bruce discovered tea
+[  371.8 -   375.0] growing perfectly wild in Assam in northeastern India.
+[  375.0 -   377.2] It was a native local variety.
+[  377.2 -   379.2] So wait, they didn't even need the Chinese plant.
+[  379.2 -   381.1] They had their own indigenous tea bushes
+[  381.1 -   382.8] growing in the Indian jungles.
+[  382.8 -   385.9] Well, they had the plant, but they did not have the process.
+[  386.5 -   389.3] Plucking a leaf is easy, but making it drinkable.
+[  389.3 -   390.2] That's the hard part.
+[  390.2 -   393.3] Yeah, that requires intense chemical manipulation.
+[  393.3 -   395.2] You have to know how to wither the leaves,
+[  395.2 -   397.6] how to roll them without bruising them too badly,
+[  397.6 -   399.0] how to oxidize them,
+[  399.0 -   402.6] and exactly when to fire them in hot pans to stop the oxidation.
+[  402.6 -   404.2] Which they had no idea how to do.
+[  404.2 -   405.5] Exactly.
+[  405.5 -   410.1] Robert's brother, Charles Bruce, spent 15 painstaking years
+[  410.1 -   414.0] relying on local tribe knowledge and blind trial and error
+[  414.0 -   416.9] to figure out how to process this wild Assam leaf.
+[  416.9 -   419.0] And he eventually figures it out, right?
+[  419.0 -   421.5] Because our sources know that the first eight chests
+[  421.5 -   424.7] of this native Assam tea were sold at auction in London
+[  424.7 -   426.7] on January 10th, 1839.
+[  426.7 -   428.6] Which is a crucial date to keep in mind.
+[  428.6 -   430.8] Yeah, wait, so if a local variety of Indian tea
+[  430.8 -   432.3] was already being auctioned in London
+[  432.3 -   433.9] before the war even started,
+[  433.9 -   436.1] why is there this massive legend
+[  436.1 -   438.9] about Britain having to steal tea from China?
+[  438.9 -   441.4] I mean, January 1839 is five full months
+[  441.4 -   444.2] before Linzaksu even destroyed the opium on the beach.
+[  444.2 -   445.9] It is a great question,
+[  445.9 -   449.3] and it comes down to consumer palette and intellectual property.
+[  450.0 -   453.5] Yes, Assam tea was indigenous and growing before the war,
+[  454.2 -   456.3] but the British public didn't want Assam tea.
+[  456.3 -   456.9] Really?
+[  456.9 -   459.2] Yeah, they thought it tasted too harsh, too multi.
+[  459.8 -   461.8] Their palates were entirely accustomed
+[  461.8 -   463.8] to the delicate Chinese variety of tea.
+[  464.6 -   467.5] Furthermore, Charles Bruce's experimental processing
+[  467.5 -   469.2] was incredibly inefficient.
+[  469.9 -   471.8] The British completely lacked
+[  471.8 -   475.0] the highly specialized generational knowledge
+[  475.0 -   477.0] of how to properly manufacture the leaves
+[  477.0 -   478.6] at a massive commercial scale.
+[  478.6 -   479.8] So they had the wild bush,
+[  479.8 -   481.6] but they didn't have the Chinese stock,
+[  481.6 -   484.1] and they definitely didn't have the manufacturing secrets.
+[  484.1 -   484.7] Exactly.
+[  484.8 -   486.4] Okay, here's where it gets really interesting,
+[  486.4 -   487.8] because if you are the British Empire,
+[  487.8 -   490.0] and you want that specific Chinese variety,
+[  490.0 -   492.4] and you need that highly guarded manufacturing IP,
+[  492.4 -   493.9] you have to go take it.
+[  493.9 -   495.7] Which leads us directly to one of history's
+[  495.7 -   498.2] most audacious acts of corporate espionage.
+[  498.2 -   499.4] Oh, it's wild.
+[  499.4 -   501.8] In 1848, the East India Company
+[  501.8 -   504.6] hired a Scottish botanist named Robert Fortune
+[  504.6 -   506.8] to solve this knowledge gap once and for all.
+[  507.4 -   510.5] His mission was to infiltrate the interior of China,
+[  510.5 -   512.5] secure the finest tea plants,
+[  512.5 -   515.2] and extract the secrets of tea manufacturing.
+[  515.2 -   519.3] He is basically a 19th century botanical James Bond.
+[  519.3 -   522.5] Our sources describe how he literally shaved his head,
+[  522.5 -   524.2] adopted the traditional hairstyle
+[  524.2 -   526.2] dressed in the clothing of a wealthy merchant,
+[  526.2 -   529.1] and essentially vanished into regions of China
+[  529.1 -   532.2] that were strictly closed to foreigners under pain of death.
+[  532.2 -   534.0] He spent nearly three years traveling
+[  534.0 -   537.1] through the green tea hills of Zhejiang and Anhui,
+[  537.1 -   540.2] and then deep into the we mountain range in Fujian,
+[  540.2 -   542.3] which was the heartland of black tea production.
+[  542.3 -   544.1] Just wandering around stealing plants.
+[  544.1 -   545.7] Right, and he managed to acquire
+[  545.7 -   547.8] roughly 20,000 plants and seedlings.
+[  548.3 -   550.2] But acquiring them was the easy part.
+[  550.2 -   552.5] The real challenge was maritime logistics.
+[  552.5 -   553.8] Up until this point in history,
+[  553.8 -   555.4] trying to transport livered,
+[  555.4 -   557.5] delicate plants on a ship for months
+[  557.5 -   559.0] was practically impossible.
+[  559.0 -   561.4] Yeah, they would just die from the salt spray
+[  561.4 -   562.8] or the lack of fresh water
+[  562.8 -   565.1] or the extreme temperature fluctuations
+[  565.1 -   566.4] when crossing the equator.
+[  566.4 -   566.9] Right.
+[  566.9 -   569.6] Which means our 19th century James Bond
+[  569.6 -   571.8] needed a cutting edge gadget.
+[  571.8 -   574.0] And our sources explain he used something
+[  574.0 -   575.5] called a Wardian case,
+[  575.5 -   578.2] which is just absolutely fascinating.
+[  578.2 -   579.9] The Wardian case had been patented
+[  579.9 -   583.2] about 15 years prior by a doctor in London
+[  583.2 -   584.8] trying to protect his ferns
+[  584.8 -   587.0] from the city's severe air pollution.
+[  587.5 -   591.1] It was basically a sealed, glazed glass box.
+[  591.1 -   592.6] Like a mini greenhouse.
+[  592.6 -   593.2] Exactly.
+[  593.2 -   594.6] And it functioned as a portable,
+[  594.6 -   596.2] self-sustaining microclimate.
+[  597.0 -   599.5] Moisture would evaporate from the soil during the day,
+[  599.5 -   601.0] condense on the glass ceiling,
+[  601.1 -   603.4] and then drip back down into the dirt at night.
+[  603.4 -   605.1] Wow, so it waters itself.
+[  605.1 -   606.9] It completely isolated the plants
+[  606.9 -   608.7] from the toxic salt air of the ocean
+[  608.7 -   611.2] while constantly recycling its own fresh water.
+[  611.2 -   612.4] It is brilliant.
+[  612.4 -   615.0] Fortune uses these sealed glass boxes
+[  615.0 -   617.9] to keep 20,000 plants alive across the ocean,
+[  617.9 -   619.7] delivering them safely to the company's
+[  619.7 -   621.4] nurseries in the Himalayas.
+[  621.4 -   623.3] But he didn't just steal the vegetation,
+[  623.3 -   624.9] he also brought the human capital.
+[  624.9 -   625.9] Yeah, the expertise.
+[  625.9 -   630.0] He recruited eight highly skilled Chinese team-makers,
+[  630.6 -   633.3] convinced them to pack up their specialized tools,
+[  633.3 -   635.1] and brought them to the Indian Gardens
+[  635.1 -   637.1] to teach the local workers exactly how
+[  637.1 -   640.0] the leaves needed to be handled, fired, and rolled.
+[  640.0 -   641.6] And in the process of infiltrating
+[  641.6 -   642.8] these mountain factories,
+[  642.8 -   644.4] Robert Fortune actually settled
+[  644.4 -   647.7] a massive ongoing debate among European scientists.
+[  647.7 -   649.0] Oh, about the tea types.
+[  649.0 -   649.8] Yes.
+[  649.8 -   651.4] Up until his expedition,
+[  651.4 -   654.0] British botanists genuinely believed
+[  654.0 -   656.0] that green tea and black tea
+[  656.0 -   659.0] came from two completely different species of plants.
+[  660.4 -   662.2] Fortune documented the truth,
+[  662.2 -   664.2] which is that green tea and black tea
+[  664.2 -   665.5] are exactly the same plant.
+[  665.5 -   667.2] That still blows my mind a little bit.
+[  667.2 -   667.5] Right.
+[  667.5 -   669.1] The only difference is how long the leaves
+[  669.1 -   670.6] are allowed to oxidize
+[  670.6 -   672.5] after they are picked before being fired.
+[  672.5 -   674.7] You read his own written account of the expedition,
+[  674.7 -   677.3] and he treats smuggling 20,000 plants
+[  677.3 -   679.4] out of a hostile closed country in disguise
+[  679.4 -   682.6] like it was just a casual, pleasant, walking holiday.
+[  682.6 -   684.2] Just a stroll through the mountains.
+[  684.2 -   686.6] But the legacy of this heist
+[  686.6 -   689.2] fundamentally altered global agriculture,
+[  689.2 -   690.6] and you can actually still see it today
+[  690.6 -   692.9] when you look at the different types of tea from India.
+[  692.9 -   694.4] Yeah, this is a botanical distinction
+[  694.4 -   696.1] that surprises a lot of people.
+[  696.1 -   697.8] The Darjeeling hillsides
+[  697.8 -   700.3] were planted using those Chinese seeds.
+[  701.0 -   703.8] Archibald Campbell, a superintendent in the region,
+[  703.8 -   706.8] had started planting China tea seed around 1841.
+[  707.4 -   709.7] But it was Fortune's massive consignments
+[  709.7 -   711.4] and his expert Chinese tea makers
+[  711.4 -   713.0] arriving in the 1850s
+[  713.0 -   715.4] that scaled it up into a massive industry.
+[  715.4 -   717.2] Which means Darjeeling tastes
+[  717.3 -   719.4] so fundamentally different from Assam tea
+[  719.4 -   721.8] because it is a completely different plant.
+[  721.8 -   722.8] When you drink Assam,
+[  722.8 -   725.2] you are drinking the native Indian plant
+[  725.2 -   726.2] grown in the lowlands.
+[  726.2 -   726.7] Right.
+[  726.7 -   727.9] When you drink Darjeeling,
+[  727.9 -   729.6] you are drinking the Chinese plant
+[  729.6 -   731.9] growing high up on a ridge in Bengal
+[  731.9 -   733.7] because it was physically carried there
+[  733.7 -   735.7] in a glass box by British agents.
+[  735.7 -   737.1] That is exactly the distinction.
+[  737.1 -   738.5] The war opened the ports,
+[  738.5 -   740.5] but the espionage moved the plant.
+[  740.5 -   742.2] It completely reframes
+[  742.2 -   744.0] how you look at the grocery store aisle.
+[  744.0 -   746.8] But this brings us to the historiography portion
+[  746.8 -   747.7] of our sources,
+[  747.7 -   750.0] which is incredibly thought-provoking.
+[  750.0 -   752.4] We have this sweeping multi-decade story
+[  752.4 -   753.9] involving three nations,
+[  753.9 -   755.4] a massive drug trade,
+[  755.4 -   756.1] a war,
+[  756.1 -   757.6] botanical espionage,
+[  757.6 -   759.8] and the reshaping of global agriculture.
+[  759.8 -   760.8] It's a huge story.
+[  761.7 -   763.3] I want you to think about this for a second.
+[  764.0 -   766.6] How can the exact same historical event
+[  766.6 -   768.2] completely change its shape
+[  768.2 -   770.7] just by shifting the starting line a few years?
+[  770.7 -   772.5] It is like walking into a movie theater
+[  772.5 -   773.7] halfway through the film.
+[  773.7 -   775.4] Who you think the hero and the villain are
+[  775.4 -   777.4] depends entirely on what scene was playing
+[  777.4 -   778.6] when you sat down.
+[  778.6 -   780.3] If we connect this to the bigger picture,
+[  780.3 -   781.8] the sources compare six different
+[  781.8 -   783.6] international history textbooks
+[  783.6 -   785.6] whose syllabus is covered in the 1840s.
+[  786.2 -   787.2] And you see immediately
+[  787.2 -   789.4] how the starting line dictates the narrative.
+[  789.4 -   791.2] Let's start with the British textbook.
+[  791.2 -   793.2] Our sources note that it starts the latest
+[  793.2 -   793.8] in the timeline.
+[  794.4 -   796.6] The opium wars are basically treated
+[  796.6 -   798.3] as background context to China
+[  798.3 -   800.1] after the year 1900.
+[  800.1 -   801.1] I have the quote here.
+[  801.1 -   801.9] It says,
+[  801.9 -   803.7] The British were first on the scene
+[  803.7 -   805.1] fighting and defeating the Chinese
+[  805.1 -   806.2] in the opium wars.
+[  806.2 -   808.5] They forced China to hand over Hong Kong
+[  808.5 -   811.0] and to allow them to trade at certain ports.
+[  811.0 -   813.1] Notice what is missing from that grammar.
+[  813.1 -   815.5] Opium is in the title of the war,
+[  815.5 -   816.8] but the drug itself,
+[  816.8 -   817.6] the smuggling,
+[  817.6 -   819.8] the East India Company's monopoly,
+[  819.8 -   821.2] none of it is mentioned in the text.
+[  821.8 -   823.8] By starting the clock at the victory,
+[  823.8 -   825.4] the British account tells the story
+[  825.4 -   826.7] of forcing trade access
+[  826.7 -   828.3] and acquiring territory.
+[  828.3 -   829.8] The embarrassing reality of running
+[  829.8 -   831.5] a state sponsored drug cartel
+[  831.5 -   832.9] is just neatly bypassed.
+[  832.9 -   833.3] Exactly.
+[  833.3 -   834.6] Now compare that to the Chinese
+[  834.6 -   835.1] textbook,
+[  835.1 -   836.5] which starts much earlier.
+[  836.5 -   838.6] It meticulously documents the sheer
+[  838.6 -   840.3] volume of the drug trade.
+[  840.3 -   843.3] It notes the climb from 4,570 chests
+[  843.3 -   844.9] of opium in the year 1800
+[  844.9 -   848.0] to more than 40,000 chests by 1838.
+[  848.0 -   850.2] It explicitly names Lin Zexu
+[  850.2 -   851.4] and the destruction on the beach
+[  851.4 -   852.2] a human.
+[  852.2 -   853.4] In the Chinese account,
+[  853.4 -   855.2] the subject is an immense national
+[  855.2 -   855.7] injury.
+[  855.7 -   857.8] It focuses on precise quantities,
+[  857.8 -   859.1] defensive decisions,
+[  859.1 -   861.4] and the imposition of unequal treaties.
+[  861.4 -   861.9] Yeah.
+[  861.9 -   862.9] But it stops there.
+[  862.9 -   863.2] Right.
+[  863.2 -   864.9] It is entirely focused on
+[  864.9 -   866.2] the domestic trauma
+[  866.2 -   867.8] and the unjust foreign aggression.
+[  867.8 -   869.0] So it does not follow the tea
+[  869.0 -   870.2] planned out of China.
+[  870.2 -   871.6] The botanical espionage
+[  871.6 -   872.9] isn't part of their educational
+[  872.9 -   873.3] focus.
+[  873.3 -   874.6] And then we have the Indian
+[  874.6 -   875.0] textbook,
+[  875.0 -   876.2] which our source notes is the
+[  876.2 -   877.2] shortest of the bunch,
+[  877.2 -   878.5] but it is the only one that
+[  878.5 -   879.8] actually completes the commercial
+[  879.8 -   881.0] circuit we've been talking about.
+[  881.8 -   882.6] The quote is simple.
+[  884.1 -   885.5] The company used the silver to
+[  885.5 -   887.5] buy tea, silk, and porcelain
+[  887.5 -   888.6] to sell in Britain.
+[  888.6 -   890.1] That single sentence
+[  890.1 -   892.2] supplies the missing cargo.
+[  892.2 -   893.9] It explains the financial motive
+[  893.9 -   895.8] behind the entire conflict.
+[  895.8 -   897.4] Yet the Indian textbook has no
+[  897.4 -   898.7] mention of lens exu,
+[  898.7 -   900.5] and it features no battlefield.
+[  900.5 -   901.8] It keeps the trade mechanics,
+[  901.8 -   903.6] but drops the fighting entirely.
+[  903.6 -   904.6] It is wild.
+[  904.6 -   906.8] The British textbook loses the drug.
+[  907.5 -   909.2] The Chinese textbook focuses on
+[  909.2 -   909.8] the injury,
+[  909.8 -   911.3] but stops before the botanical
+[  911.3 -   912.0] theft.
+[  912.0 -   913.9] The Indian textbook explains the
+[  913.9 -   915.1] commercial triangle,
+[  915.1 -   916.1] but drops the war.
+[  916.7 -   918.1] Only one out of these global
+[  918.1 -   919.8] classrooms actually says
+[  919.8 -   921.7] what the opium silver bought.
+[  921.8 -   923.3] And none of them follow the plant
+[  923.3 -   925.0] all the way to the modern tea packet.
+[  925.0 -   927.1] It is a powerful reminder of how
+[  927.1 -   928.8] editing the timeline edits the
+[  928.8 -   929.6] truth.
+[  929.6 -   930.7] Though, as our sources
+[  930.7 -   931.5] carefully point out,
+[  931.5 -   932.4] we have to look at these
+[  932.4 -   933.8] as syllabus boundaries.
+[  933.8 -   934.6] Oh, sure.
+[  934.6 -   935.8] A high school textbook from
+[  935.8 -   938.0] Belarus or Sudan or Germany
+[  938.0 -   939.0] has different educational
+[  939.0 -   939.7] priorities.
+[  940.2 -   941.8] A missing event in a history book
+[  941.8 -   943.8] isn't automatically a deliberate
+[  943.8 -   945.4] malicious suppression of facts.
+[  946.0 -   947.4] It is often just the practical
+[  947.4 -   949.1] reality of limited page space
+[  949.1 -   950.1] and national focus.
+[  950.1 -   950.3] Right.
+[  950.3 -   951.4] They can't cover everything.
+[  951.4 -   952.8] But regardless of the intent
+[  952.8 -   954.6] behind it, those omissions shape
+[  954.6 -   956.0] how entire generations
+[  956.0 -   957.1] understand the mechanics of
+[  957.1 -   958.2] global history.
+[  958.2 -   959.4] You read your assigned chapter,
+[  959.4 -   960.7] you think you have the full story,
+[  960.7 -   961.8] but you might only be looking at
+[  961.8 -   963.0] one side of a triangle.
+[  963.6 -   964.7] Let's look at the long term
+[  964.7 -   965.7] aftermath, though,
+[  965.7 -   967.0] because the British plan to
+[  967.0 -   968.5] gain agricultural independence
+[  968.5 -   970.2] worked surprisingly fast.
+[  970.2 -   971.2] It really did.
+[  971.2 -   972.6] By 1888,
+[  972.6 -   974.2] just within one lifetime
+[  974.2 -   976.2] of Robert Fortun's expedition,
+[  976.2 -   977.4] the commercial circuit
+[  977.4 -   979.1] completely flipped.
+[  979.1 -   980.6] Britain was officially importing
+[  980.6 -   982.4] more tea from India than from China.
+[  982.4 -   984.0] Wow, that fast.
+[  984.0 -   984.5] Yeah.
+[  984.5 -   985.4] China's market share,
+[  985.4 -   987.0] which they had once held with an
+[  987.0 -   989.1] absolute ironclad monopoly,
+[  989.1 -   990.2] just kept falling.
+[  990.7 -   992.9] India retained massive agricultural
+[  992.9 -   993.8] dominance.
+[  993.8 -   995.0] They grew the tea
+[  995.0 -   996.2] and they continued producing
+[  996.2 -   997.0] the opium.
+[  997.0 -   998.2] In fact, our sources note
+[  998.2 -  1000.1] a chilling little full circle detail.
+[ 1000.1 -  1001.8] The East India Company's old
+[ 1001.8 -  1004.2] opium factory at Ghazipur,
+[ 1004.2 -  1005.8] the very same facility that
+[ 1005.8 -  1007.4] packed the chest that Lin Zexu
+[ 1007.4 -  1010.0] destroyed at human back in 1839
+[ 1010.0 -  1011.5] is still operating today,
+[ 1011.5 -  1012.9] making legal opiates
+[ 1012.9 -  1013.8] under the Indian government.
+[ 1017.4 -  1018.8] Cultural legacy didn't stop
+[ 1018.8 -  1019.6] in the Himalayas.
+[ 1019.6 -  1021.8] In 1903, tea seeds from India
+[ 1021.8 -  1023.0] were taken to Kenya.
+[ 1023.0 -  1023.3] Yes.
+[ 1024.0 -  1025.4] Today, Kenya has become
+[ 1025.4 -  1027.0] the world's largest exporter
+[ 1027.0 -  1027.8] of black tea.
+[ 1028.7 -  1030.8] The entire global map
+[ 1030.8 -  1032.5] of this beverage was redrawn.
+[ 1033.0 -  1034.1] So what does this all mean
+[ 1034.1 -  1035.2] for us today?
+[ 1035.2 -  1037.2] It means that this sweeping
+[ 1037.2 -  1038.5] geopolitical history
+[ 1038.5 -  1039.3] is sitting right there
+[ 1039.4 -  1040.0] in your kitchen.
+[ 1040.6 -  1042.2] Britain fought a massive war
+[ 1042.2 -  1043.9] to keep buying Chinese tea,
+[ 1043.9 -  1045.3] but then they used botanical
+[ 1045.3 -  1047.0] espionage to build a completely
+[ 1047.0 -  1048.9] new captive supply chain
+[ 1048.9 -  1050.0] so they would never have to
+[ 1050.0 -  1051.3] depend on China again.
+[ 1051.3 -  1051.5] Right.
+[ 1051.5 -  1053.0] The fighting in the 1840s
+[ 1053.0 -  1054.4] didn't move the plant.
+[ 1054.4 -  1055.5] Robert Fortune moved at
+[ 1055.5 -  1056.6] nine years later
+[ 1056.6 -  1057.5] in disguise,
+[ 1057.5 -  1059.2] armed with a glass box.
+[ 1059.2 -  1060.5] This raises an important
+[ 1060.5 -  1061.8] question about how deeply
+[ 1061.8 -  1063.5] our everyday modern conveniences
+[ 1063.5 -  1064.6] are intertwined
+[ 1064.6 -  1065.8] with historical conflict.
+[ 1066.4 -  1067.5] The products we consume
+[ 1067.5 -  1068.5] without a second thought
+[ 1068.5 -  1069.8] are almost always the direct
+[ 1069.8 -  1071.0] result of centuries old
+[ 1071.0 -  1072.2] trade imbalances,
+[ 1072.2 -  1073.2] corporate monopolies,
+[ 1073.2 -  1074.1] and fierce battles
+[ 1074.1 -  1075.4] for agricultural control.
+[ 1075.4 -  1076.2] Which brings us back
+[ 1076.2 -  1076.9] to where we started,
+[ 1076.9 -  1078.2] but with a new perspective.
+[ 1078.2 -  1078.9] Next time you brew
+[ 1078.9 -  1079.9] a simple cup of tea,
+[ 1079.9 -  1080.8] you know the history
+[ 1080.8 -  1081.9] steeped in that mug.
+[ 1081.9 -  1082.7] But it makes you wonder
+[ 1082.7 -  1084.0] about everything else.
+[ 1084.0 -  1085.5] What other mundane items
+[ 1085.5 -  1086.3] sitting in your house
+[ 1086.3 -  1087.1] right now
+[ 1087.1 -  1088.1] are the legacy
+[ 1088.1 -  1089.9] of forgotten corporate espionage?
+[ 1089.9 -  1091.2] Oh, there are so many.
+[ 1091.2 -  1092.1] Think about the rubber
+[ 1092.1 -  1093.4] and the tires of your car
+[ 1093.4 -  1094.9] smuggled out of Brazil
+[ 1094.9 -  1096.2] or the vanilla extract
+[ 1096.2 -  1096.9] in your pantry.
+[ 1097.5 -  1099.0] The history of global trade
+[ 1099.0 -  1099.7] isn't just written
+[ 1099.7 -  1100.9] in treaties and battles.
+[ 1100.9 -  1102.6] It is written in stolen seeds,
+[ 1102.6 -  1103.7] glass terrariums,
+[ 1103.7 -  1105.3] and quiet botanical heists
+[ 1105.3 -  1106.2] that changed the world
+[ 1106.2 -  1107.9] without ever firing a shot.
+[ 1107.9 -  1108.6] Keep an eye on your
+[ 1108.6 -  1109.4] grocery list.
+[ 1109.4 -  1110.2] We'll see you on the next
+[ 1110.2 -  1110.7] Deep Dive.
